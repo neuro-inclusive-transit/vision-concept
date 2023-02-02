@@ -1,5 +1,7 @@
 # Design Sprint › Erstellung des Prototypen
 
+> [Protoyp als Figma-Klickdummy](https://www.figma.com/proto/Y3n3YfCirgUVYRKMAOvu4v/Sprint-Week-Prototype?page-id=0%3A1&node-id=2%3A2&viewport=323%2C186%2C0.14&scaling=scale-down&starting-point-node-id=2%3A2)
+
 #### Allgemein
 - Wahl der Plattform: Figma -> schnelle Gestaltung möglich / Interaktivität / Mobiler Prototyp möglich + Neues Feature der Videoeinbindung
 - Mobiler Prototyp: Größe iPhone 11/12 -> Smartphone steht beim User Test in echt zur Verfügung
@@ -17,3 +19,6 @@ Minimale Anpassung des Prototypen nach Entwicklung des Nutzertest-Plans -> Aufte
 #### Retro
 - Umsetzung der Designsprache war im Team -> Prozess war zu lange (besser wäre alleine)
 - Vereinheitlichung der Gestaltung war notwendig, da teilweise Gestaltung auseinander gegangen ist
+
+
+![image](https://user-images.githubusercontent.com/19761338/216335828-ed080167-a3f1-4d5d-9b4d-128f18ab4f65.png)
