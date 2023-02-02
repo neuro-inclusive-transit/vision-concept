@@ -20,16 +20,36 @@ im Wintersemester 2022/23
 
 ## Übersicht
 
+- [Projektplan](#projektplan)
 - [Exposé](#exposé)
   - [Problem und Relevanz](#problem-und-relevanz)
   - [Zielvorstellung](#zielvorstellung)
   - [Vorgehen](#vorgehen)
 - [Design Sprint](./designsprint/index.md)
 - [Interviews mit Stakeholder:innen](./stakeholderinterviews/index.md)
-- [Zielhirachie](./zielhiarchie.html)
+- [Zielhirachie](./zielhiarchie.md)
 - [Value Sensitive Design](./value-sensitive-design.md)
 
+## Projektplan
+
+```mermaid
+
+graph LR
+A[Brainstorming] --> B[Exposé]
+B --> C[Design Sprint]
+C --> D[User Tests & Interviews]
+D --> E[Zielhirachie]
+E --> F[Value Sensitive Design]
+F --> G[Conceptual Design]
+G --> H[Prototypen]
+H --> I[Präsentation]
+```
+
+Der Projektplan ist als [Excel-Datei](https://thkoelnde-my.sharepoint.com/:x:/g/personal/leonard_pelzer_smail_th-koeln_de/ERltJXIJREVNia7OtltWWRQBdul6jd5QmLcxvDIn1JqNww?e=W6DrhD) verfügbar.
+
 ## Exposé
+
+[Download Exposé](./expose/expose_v1.pdf)
 
 ### Problem und Relevanz
 
