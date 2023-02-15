@@ -1,4 +1,4 @@
-# Human-centered ÖPNV-Navigation für nicht-neurotypische Personen
+# ÖPNV-Navigation für nicht-neurotypische Personen
 
 Dokumentation für \
 Projekt 1 "Vision und Konzept" \
