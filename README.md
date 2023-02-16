@@ -27,7 +27,7 @@ im Wintersemester 2022/23
   - [Vorgehen](#vorgehen)
 - [Design Sprint](./designsprint/index.md)
 - [Interviews mit Stakeholder:innen](./stakeholderinterviews/index.md)
-- [Zielhirachie](./zielhiarchie.md)
+- [Zielhirachie](./zielhierachie.md)
 - [Value Sensitive Design](./value-sensitive-design.md)
 
 ## Projektplan
