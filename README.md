@@ -20,15 +20,13 @@ im Wintersemester 2022/23
 
 ## Übersicht
 
-- [Projektplan](#projektplan)
-- [Exposé](#exposé)
-  - [Problem und Relevanz](#problem-und-relevanz)
-  - [Zielvorstellung](#zielvorstellung)
-  - [Vorgehen](#vorgehen)
-- [Design Sprint](./designsprint/index.md)
-- [Interviews mit Stakeholder:innen](./stakeholderinterviews/index.md)
-- [Zielhirachie](./zielhierachie.md)
-- [Value Sensitive Design](./value-sensitive-design.md)
+- [ÖPNV-Navigation für nicht-neurotypische Personen](#öpnv-navigation-für-nicht-neurotypische-personen)
+  - [Übersicht](#übersicht)
+  - [Projektplan](#projektplan)
+  - [Exposé](#exposé)
+    - [Problem und Relevanz](#problem-und-relevanz)
+    - [Zielvorstellung](#zielvorstellung)
+    - [Vorgehen](#vorgehen)
 
 ## Projektplan
 
