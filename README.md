@@ -26,7 +26,9 @@ im Wintersemester 2022/23
  - [Interviews mit Stakeholder:innen](./stakeholderinterviews/index.md)
  - [UML-Domaenenmodell](./artefakte/uml-domaenenmodell.md)
  - [Zielhierarchie](./artefakte/zielhierachie.md)
+ - [Scope](./artefakte/scope.md)
  - [Value Sensitive Design](./value-sensitive-design.md)
+ - [Use Cases](./artefakte/use-cases.md)
  - [NUI/GUI-Konzept](./artefakte/nui-gui-konzept.md)
 
 ## Projektplan
