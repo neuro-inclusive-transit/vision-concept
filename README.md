@@ -20,13 +20,14 @@ im Wintersemester 2022/23
 
 ## Übersicht
 
-- [ÖPNV-Navigation für nicht-neurotypische Personen](#öpnv-navigation-für-nicht-neurotypische-personen)
-  - [Übersicht](#übersicht)
-  - [Projektplan](#projektplan)
-  - [Exposé](#exposé)
-    - [Problem und Relevanz](#problem-und-relevanz)
-    - [Zielvorstellung](#zielvorstellung)
-    - [Vorgehen](#vorgehen)
+- [Projektplan](https://thkoelnde-my.sharepoint.com/:x:/g/personal/leonard_pelzer_smail_th-koeln_de/ERltJXIJREVNia7OtltWWRQBdul6jd5QmLcxvDIn1JqNww?rtime=Lp9ewTAi20g)
+ - [Exposé](./arteakte/expose_v1.pdf)
+ - [Design Sprint](./designsprint/index.md)
+ - [Interviews mit Stakeholder:innen](./stakeholderinterviews/index.md)
+ - [UML-Domaenenmodell](./artefakte/uml-domaenenmodell.md)
+ - [Zielhierarchie](./artefakte/zielhierachie.md)
+ - [Value Sensitive Design](./value-sensitive-design.md)
+ - [NUI/GUI-Konzept](./artefakte/nui-gui-konzept.md)
 
 ## Projektplan
 
@@ -45,9 +46,6 @@ H --> I[Präsentation]
 
 Der Projektplan ist als [Excel-Datei](https://thkoelnde-my.sharepoint.com/:x:/g/personal/leonard_pelzer_smail_th-koeln_de/ERltJXIJREVNia7OtltWWRQBdul6jd5QmLcxvDIn1JqNww?e=W6DrhD) verfügbar.
 
-## Exposé
-
-[Download Exposé](./expose/expose_v1.pdf)
 
 ### Problem und Relevanz
 
