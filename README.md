@@ -21,7 +21,7 @@ im Wintersemester 2022/23
 ## Übersicht
 
 - [Projektplan](https://thkoelnde-my.sharepoint.com/:x:/g/personal/leonard_pelzer_smail_th-koeln_de/ERltJXIJREVNia7OtltWWRQBdul6jd5QmLcxvDIn1JqNww?rtime=Lp9ewTAi20g)
- - [Exposé](./arteakte/expose_v1.pdf)
+ - [Exposé](./expose/expose_v1.pdf)
  - [Design Sprint](./designsprint/index.md)
  - [Interviews mit Stakeholder:innen](./stakeholderinterviews/index.md)
  - [UML-Domaenenmodell](./artefakte/uml-domaenenmodell.md)
