@@ -1,6 +1,6 @@
 # Zielhierarchie
 
-Mit einer Zielhierarchie konnten wir unsere finales Ziel mit den dazugehörigen Subzielen gliedern. Diese haben wir in die Ebenen "strategisch", "taktisch" und "operativ" gruppiert, die jeweils die Zeithorizonte langfristig, mittelfristig und kurzfristig umfassen. Unsere Vision stellt hierbei gleichzeitig unser strategisches Ziel dar:
+Mit einer Zielhierarchie konnten wir unsere finales Ziel für das Projekt mit den dazugehörigen Subzielen gliedern. Diese haben wir in die Ebenen "strategisch", "taktisch" und "operativ" gruppiert, die jeweils die Zeithorizonte langfristig, mittelfristig und kurzfristig umfassen. Unsere Vision stellt hierbei gleichzeitig unser strategisches Ziel dar:
 
 ### Strategisch / Visionär
 
@@ -26,6 +26,6 @@ der User erarbeiten.
 
 
 ## SWOT-Analyse zur Zielhierachie
-Als weiteren Schritt der Projektplanung haben wir zur Identifizierung der (potenziellen) Stärken, Schwächen, Risiken und Chancen unseres Projekts eine SWOT-Analyse erstellt. Im Zentrum befindet sich unsere Vision, auf der die SWOT-Analyse aufbaut. Mit Hilfe der Analyse können so bereits im frühen Projektstadium Potenziale zu nutzen und Chancen ergreifen sowie auf Schwächen und Risiken zu reagieren. 
+Als weiteren Schritt der Projektplanung haben wir zur Identifizierung der (potenziellen) Stärken, Schwächen, Risiken und Chancen unseres Projekts eine SWOT-Analyse erstellt. Im Zentrum befindet sich unsere Vision, auf der die SWOT-Analyse aufbaut. Mit Hilfe der Analyse konnten wir so bereits im frühen Projektstadium Potenziale entdecken und Chancen ergreifen sowie auf Schwächen und Risiken reagieren. So wurde beispielsweise deutlich, dass die Kommunikation über mehrere Kodalitäten und Modalitäten sowie das Einbinden von Kontexinformationen den assistiven Charakter unseres Systems deutlich unterstützen könnte. Diese und auch viele weitere identifizierte Punkte konnten wir in nachfolgenen Schritten aufgreifen.
 
 <img width="4496" alt="P1 - Projekt Board" src="https://user-images.githubusercontent.com/19761338/216337012-473fb111-7b8e-4c8b-a774-84776fb8bf1f.png">
