@@ -25,6 +25,7 @@ im Wintersemester 2022/23
  - [Design Sprint](./designsprint/index.md)
  - [Interviews mit Stakeholder:innen](./stakeholderinterviews/index.md)
  - [UML-Domaenenmodell](./artefakte/uml-domaenenmodell.md)
+-  [Erfordernisse und Anforderungen](artefakte/anforderungen+erfordernisse.md)
  - [Zielhierarchie](./artefakte/zielhierachie.md)
  - [Scope](./artefakte/scope.md)
  - [Value Sensitive Design](./artefakte/value-sensitive-design.md)
