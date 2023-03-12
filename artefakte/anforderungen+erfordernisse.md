@@ -4,8 +4,6 @@ Die Definition der Erfordernisse und daraus folgende Anforderungen an das System
 - [Erfordernissen](#erfordernisse)
 - [Anforderungen](#anforderungen)
 
-
-
 ## Erfordernisse
 
 <table>
