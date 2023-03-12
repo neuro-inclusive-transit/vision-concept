@@ -1,5 +1,9 @@
 # NUI/GUI-Konzept
 
+> **NUI** = Natural User Interface
+> **GUI** = Graphical User Interface
+
+
 ## Grundkonzept
 ![gui-nui-konzept](https://user-images.githubusercontent.com/41923897/224485631-5a1019f6-788f-465c-b50a-b56c2cf00a14.jpg)
 
