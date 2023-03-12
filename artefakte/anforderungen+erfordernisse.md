@@ -4,6 +4,10 @@ Die Definition der Erfordernisse und daraus folgende Anforderungen an das System
 - [Erfordernissen](#erfordernisse)
 - [Anforderungen](#anforderungen)
 
+Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung priorisiert. Die geschah im ersten Schritt nach der Einschätzung aller Gruppenmitglieder:innen. Die Anforderungen wurden zusätzlich noch nach der Methode der "feasibility, desirability and viability scorecard"[^1] priorisiert.
+
+[^1]: https://www.nngroup.com/articles/prioritization-methods/
+
 ## Erfordernisse
 
 <table>
