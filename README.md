@@ -27,7 +27,7 @@ im Wintersemester 2022/23
  - [UML-Domaenenmodell](./artefakte/uml-domaenenmodell.md)
  - [Zielhierarchie](./artefakte/zielhierachie.md)
  - [Scope](./artefakte/scope.md)
- - [Value Sensitive Design](./value-sensitive-design.md)
+ - [Value Sensitive Design](./artefakte/value-sensitive-design.md)
  - [Use Cases](./artefakte/use-cases.md)
  - [NUI/GUI-Konzept](./artefakte/nui-gui-konzept.md)
 
