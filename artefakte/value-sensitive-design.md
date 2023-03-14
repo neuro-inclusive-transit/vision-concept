@@ -1,5 +1,12 @@
-# Value-Sensitive-Design
+# Value Sensitive Design
+> **Value Sensitive Design** = "Value sensitive design is a theoretically grounded approach to the de-
+sign of technology that accounts for human values in a principled and
+systematic manner throughout the design process" [^1] \
+> **Ability Based Design** = Das Ability Based Design fokussiert sich nicht auf die Beeinträchtigung eines:r jeweiligen
+Benutzers:in, sondern seine:ihre immer noch zur Verfügung stehenden perzeptorischen,
+kognitiven und motorischen Fähigkeiten. 
 
+Das Value Sensitive Design und das Ability Based Design sind Design-Ansätze, die wir kombiniert haben um einen besonderen Fokus auf die menschlichen Werte und den Fähigkeiten unserer Nutzer:innen zu legen. In der folgendenden Tabelle wurden demnach alle Abilities des Ability Based Designs (Value 1-7) und einige weitere Punkte als Werte für unser Projekt bzw. System festgelegt. Anschließend wurde jedem Wert eine Priorität in Hinblick auf unsere Vision und Zielvorstellungen zugeordnet. Dabei bedeutet 1 = Urgent, 2 = High, 3 = Medium, 4 = Low. 
 ### Values:
 
 | Value                 | Beschreibung                                                                                                                                                                                                                      | Prio |
@@ -16,7 +23,11 @@
 | Trust                 | Die Systeme können ein vertrauensvolles Umfeld für den User schaffen.                                                                                                                                                             | 2    |
 | Privacy               | Antwort wäre Privacy-by-design: Ein starker Fokus würde den Projekterfolg in Hinsicht auf die anderen Ziele einschränken.                                                                                                                                                                                                                      | 2    |
 
-## Value-Delivery-Szenarios:
+## Value Delivery Scenarios:
+
+> **Value Delivery Scenarios** = "Value delivery scenarios focus on the delivery of value in the world, rather than on quality in use and/or fit to context. Good scenarios tell plausible stories of how value results from envisaged designs."[^2]
+
+Auf Basis der definierten Values wurden im folglich mehrere Value Delivery Szenarios für die jeweiligen Werte geschrieben, welche auf unser (zu dem Zeitpunkt) aktuelles System basierten. Wichtig war hierbei, dass mindestens 2 Personen unbeeinflusst voneinander an einem Wert gearbeitet haben, um ein Value aus verschiedenen Perspektiven betrachten zu können. Für höher priorisierte Werte wurden mehr Szenarios geschrieben, um eine höhere Vielfalt an Nuzungskontexten abzudecken. 
 
 ### Ability
 * Tom nutzt seit kurzem das System zur Planung und Durchführung verschiedenster ÖPNV-Reisen. Er hat in ruhigen Situationen, in denen er nicht gestresst ist, eine sehr schnelle Auffassungsgabe und kann sich viele Informationen merken. Das System bereitet Tom bestmöglich auf ÖPNV-Reisen vor, indem es ihm alle möglichen Reise-Informationen am Abend vor der Reise mitteilt. Dazu gehören auch mögliche Problemsituationen. So weiß Tom beispielsweise, dass Gleis 4 am Musterbahnhof sehr versteckt ist. Durch die Vorbereitung mit solchen Informationen kann Tom seine Reise entspannt durchführen. Er ist auf mögliche planbare Problemsituationen vorbereitet und ist bei Eintreten dieser Situationen nicht überfordert.
@@ -69,3 +80,8 @@ Paul verlässt nur die Wohnung, um notwendige Dinge zu erledigen. Paul wünscht 
 * Daniel ist seine Privatsphäre sehr wichtig. Er möchte nicht, dass große Firmen seine Bewegungsdaten aufzeichnen. Auch hat er Bedenken, wenn andere Sensoren seines Handys die Umwelt messen. Deswegen schaltet er auf seinem Smartphone die meisten Erweiterungsfunktionen aus. Zusätzlich schaltet er meistens auch sein Handy aus. Webseiten auf denen er sich registrieren muss, besucht er nur sehr ungern.
 * Nick möchte selbst entscheiden wann welche Daten geteilt und weiter verabreitet werden. 
 das system soll nicht immer Zugriff auf Daten, Sensoren etc haben, sondern nur wenn wirklich für die Unterstützung benötigt
+
+[^1]: Friedman, Hendry, Borning (2017): A Survery of Value Sensitive Design Methods. Vol. 11, No. 23 (2017) 63-125. Foundations and Trends in Human-Computer Interaction. DOI: 10.1561/1100000015
+
+
+[^2]: Cockton 2005_A Development Framework for Value-Centred Design
