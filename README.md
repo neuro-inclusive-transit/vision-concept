@@ -29,6 +29,7 @@ im Wintersemester 2022/23
  - [Scope](./artefakte/scope.md)
  - [Value Sensitive Design](./artefakte/value-sensitive-design.md)
  - [Use Cases](./artefakte/use-cases.md)
+ - [Conceptual Design](./artefakte/conceptual-design.md)
  - [NUI/GUI-Konzept](./artefakte/nui-gui-konzept.md)
 
 ## Projektplan
