@@ -78,4 +78,4 @@ Die Festlegung eines Vorgehensmodells für dieses Projekt steht noch aus. Für d
 
 [^2]: Aktion Mensch e. V. (2021). Barrieren im Alltag — wer sie wahrnimmt und wen sie behindern. Ergebnisse einer bundesweiten Umfrage. Studie. Letzter Zugriff: 1. März 2022. Berlin, Deutschland: Ipsos Public Affairs. URL: https://delivery-aktion-mensch.stylelabs.cloud/api/public/content/AktionMensch_Studie-DigitaleTeilhabe.pdf?v=6336f50a.
 
-[^3]: Gedrath, Finn Nils (2022) „Barrierefreiheit im Design eines digitalen Services: Analyse und Gestaltung eines digitalen Services mit dem Ziel der barrierefreien Nutzung am Beispiel eines Ticketverkaufsystems“ Bachelor Thesis. Technische Hochschule Köln. https://doi.org/10.57685/EPUB-1962
+[^3]: Gedrath, Finn Nils (2022) „Barrierefreiheit im Design eines digitalen Services: Analyse und Gestaltung eines digitalen Services mit dem Ziel der barrierefreien Nutzung am Beispiel eines Ticketverkaufsystems“ Bachelor Thesis. Technische Hochschule Köln. https://doi.org/10.57683/EPUB-1962
