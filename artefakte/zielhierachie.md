@@ -1,13 +1,13 @@
 # Zielhierarchie
 
-Mit einer Zielhierarchie konnten wir unsere finales Ziel für das Projekt mit den dazugehörigen Subzielen gliedern. Diese haben wir in die Ebenen "strategisch", "taktisch" und "operativ" gruppiert, die jeweils die Zeithorizonte langfristig, mittelfristig und kurzfristig umfassen. Unsere Vision stellt hierbei gleichzeitig unser strategisches Ziel dar:
+Mit einer Zielhierarchie konnten wir unser finales Ziel für das Projekt mit den dazugehörigen Subzielen gliedern. Diese haben wir in die Ebenen "strategisch", "taktisch" und "operativ" gruppiert, die jeweils die Zeithorizonte langfristig, mittelfristig und kurzfristig umfassen. Unsere Vision stellt hierbei gleichzeitig unser strategisches Ziel dar:
 
 ### Strategisch / Visionär
 
-Es soll ein System entwickelt werden, welches nicht-neurotypische Personen bei der Planung und während einer Reise mit dem ÖPNV unterstützen kann. Statt eine Abhängigkeit vom System zu schaffen, sollte es so konzipiert werden, dass die Autonomie und das Selbstbewusstsein der betroffenen Personen bestärkt und gefördert wird sowie Inklusion und Menschzentriertheit bestehen.
+Es soll ein System entwickelt werden, welches nicht-neurotypische Personen bei der Planung und während einer Reise mit dem ÖPNV unterstützen kann. Statt eine Abhängigkeit vom System zu schaffen, soll es so konzipiert werden, dass die Autonomie und das Selbstbewusstsein der betroffenen Personen bestärkt und gefördert werden, sowie Inklusion und Menschzentriertheit bestehen.
 
 ### Taktisch
-Als taktische Ziele haben wir solche definiert, die insbesondere unsere long-term goals unseres Design Sprints, aber auch Grundsätze der menschzentrierten Gestaltung  umfassen. Des Weiteren hebten wir das Verstehen des Problemkontextes und der Domäne hervor, da es sich hierbei um ein Themenkomplex handelt, bei dem zu dem aktuellen Zeitpunkt kein Projektmitglied über ausreichend Exptertise verfügt hat.
+Als taktische Ziele haben wir solche definiert, die insbesondere die long-term goals unseres Design Sprints, aber auch Grundsätze der menschzentrierten Gestaltung  umfassen. Des Weiteren hoben wir das Verstehen des Problemkontextes und der Domäne hervor, da es sich hierbei um ein Themenkomplex handelt, bei dem zu dem aktuellen Zeitpunkt kein Projektmitglied über ausreichend Exptertise verfügt hat.
 
 - Vertrauen mit den Usern aufbauen.
 - Den Problemkontext und die Domäne “Personen mit kognitiven Beeinschränkungen im ÖPNV” verstehen.
@@ -15,10 +15,9 @@ Als taktische Ziele haben wir solche definiert, die insbesondere unsere long-ter
 
 
 ### Operativ
-In die operativen Ziele stellen solche dar, die die taktischen Ziele aufgreifen und konkretisieren. Vor allem Designansätze und allgemeingültige Richtlinien für die menschzentrierte und inklusive Gestaltung von Systemen waren uns wichtig. 
+Die operativen Ziele stellen solche dar, die die taktischen Ziele aufgreifen und konkretisieren. Vor allem Designansätze und allgemeingültige Richtlinien für die menschzentrierte und inklusive Gestaltung von Systemen waren uns wichtig. 
 - Domänen- und Stakeholderanalyse (Interviews) durchführen.
-- Die Erfordernisse und Nutzungsanforderungen
-der User erarbeiten.
+- Die Erfordernisse und Nutzungsanforderungen der User erarbeiten.
 - Nach der Vorgehensweise des conceptual designs arbeiten mit Erweiterung um das value sensitive design.
 - Die Prinzipien der ISO 9241-110, des ability based designs und der W3C Accessibility Guidelines berücksichtigen.
 
