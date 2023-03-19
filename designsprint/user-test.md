@@ -3,5 +3,5 @@
 ## Artefakte
 - [Einverständniserklärung](../stakeholderinterviews/einverständniserklärung.pdf)
 - [User-Test-Leitfaden](./usertestleitfaden.pdf)
-- [Durchführung](./durchfuerung.md)
+- [Durchführung](./durchfuehrung.md)
 - [Auswertung](./auswertung.md)
