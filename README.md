@@ -18,35 +18,41 @@ im Wintersemester 2022/23
 - Prof. Dr. Gerhard Hartmann
 
 
-## Übersicht
+## Projektplan/Übersicht
 
-- [Projektplan](https://thkoelnde-my.sharepoint.com/:x:/g/personal/leonard_pelzer_smail_th-koeln_de/ERltJXIJREVNia7OtltWWRQBdul6jd5QmLcxvDIn1JqNww?rtime=Lp9ewTAi20g)
- - [Design Sprint](./designsprint/index.md)
- - [Interviews mit Stakeholder:innen](./stakeholderinterviews/index.md)
- - [UML-Domaenenmodell](./artefakte/uml-domaenenmodell.md)
--  [Erfordernisse und Anforderungen](artefakte/anforderungen+erfordernisse.md)
- - [Zielhierarchie](./artefakte/zielhierachie.md)
- - [Scope](./artefakte/scope.md)
- - [Value Sensitive Design](./artefakte/value-sensitive-design.md)
- - [Use Cases](./artefakte/use-cases.md)
- - [Conceptual Design](./artefakte/conceptual-design.md)
- - [NUI/GUI-Konzept](./artefakte/nui-gui-konzept.md)
+> **Note**
+> Der [Projektplan inklusive Timings ist als Excel-Datei](https://thkoelnde-my.sharepoint.com/:x:/g/personal/leonard_pelzer_smail_th-koeln_de/ERltJXIJREVNia7OtltWWRQBdul6jd5QmLcxvDIn1JqNww?e=W6DrhD) verfügbar.
 
-## Projektplan
+Das Projekt begann mit einem Brainstroming und der Formulierung eines [Exposés](#exsposé).
 
-```mermaid
-graph LR
-A[Brainstorming] --> B[Exposé]
-B --> C[Design Sprint]
-C --> D[User Tests & Interviews]
-D --> E[Zielhirachie]
-E --> F[Value Sensitive Design]
-F --> G[Conceptual Design]
-G --> H[Prototypen]
-H --> I[Präsentation]
-```
+- [Design Sprint](./designsprint/index.md)
+- [UML-Domaenenmodell](./artefakte/uml-domaenenmodell.md)
+- [Interviews mit Stakeholder:innen](./stakeholderinterviews/index.md)
 
-Der Projektplan ist als [Excel-Datei](https://thkoelnde-my.sharepoint.com/:x:/g/personal/leonard_pelzer_smail_th-koeln_de/ERltJXIJREVNia7OtltWWRQBdul6jd5QmLcxvDIn1JqNww?e=W6DrhD) verfügbar.
+**MEILENSTEIN 1 (21.12.2022)**
+
+- Flussdiagramme
+- [UML-Domaenenmodell](./artefakte/uml-domaenenmodell.md)
+- [Zielhirachie/Vision mit einer SWOT-Analyse](./artefakte/zielhierachie.md)
+
+**MEILENSTEIN 2 (18.01.2022)**
+
+- [Value Sensitive Design](./artefakte/value-sensitive-design.md)
+- [Erfordernisse und Anforderungen](artefakte/anforderungen+erfordernisse.md)
+
+**MEILENSTEIN 3 (01.02.2023)**
+
+- [Use Cases](./artefakte/use-cases.md)
+- [Conceptual Design](./artefakte/conceptual-design.md)
+
+**MEILENSTEIN 4 (15.02.2023)**
+
+- [NUI/GUI-Konzept](./artefakte/nui-gui-konzept.md)
+- Technische System-Architektur
+
+---
+
+## Exsposé
 
 
 ### Problem und Relevanz
