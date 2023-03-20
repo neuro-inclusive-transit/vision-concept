@@ -52,7 +52,7 @@ Das Projekt begann mit einem Brainstroming und der Formulierung eines [Exposés]
 
 ---
 
-## Exsposé
+## Exposé
 
 
 ### Problem und Relevanz
