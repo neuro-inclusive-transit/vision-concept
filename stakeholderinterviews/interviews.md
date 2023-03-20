@@ -49,7 +49,8 @@ Dazu wurden sechs Personen unterschiedlichen Alters und Geschlechts befragt, die
     <td> Nutzer:in </td>
   </tr>
   
-   <td> D </td>
+  <tr> 
+    <td> D </td>
     <td> 35-50 Jahre </td>
     <td> er / ihn </td>
     <td> Legasthenie </td>
@@ -57,7 +58,8 @@ Dazu wurden sechs Personen unterschiedlichen Alters und Geschlechts befragt, die
     <td> Nutzer:in </td>
   </tr>
   
-  <td> E </td>
+  <tr> 
+    <td> E </td>
     <td> über 50 Jahre </td>
     <td> sie / ihr </td>
     <td> - </td>
@@ -65,7 +67,8 @@ Dazu wurden sechs Personen unterschiedlichen Alters und Geschlechts befragt, die
     <td> Betreuer:in </td>
   </tr>
 
-  <td> F </td>
+  <tr> 
+    <td> F </td>
     <td> 35-50 Jahre </td>
     <td> keine </td>
     <td> ADHS <br> Hörschwäche</td>
