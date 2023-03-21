@@ -48,7 +48,7 @@ Das Projekt begann mit einem Brainstroming und der Formulierung eines [Exposés]
 **MEILENSTEIN 4 (15.02.2023)**
 
 - [NUI/GUI-Konzept](./artefakte/nui-gui-konzept.md)
-- Technische System-Architektur
+- [Technische System-Architektur](./artefakte/systemarchitecture.md)
 
 ---
 
