@@ -23,7 +23,7 @@ im Wintersemester 2022/23
 > **Note**
 > Der [Projektplan inklusive Timings ist als Excel-Datei](https://thkoelnde-my.sharepoint.com/:x:/g/personal/leonard_pelzer_smail_th-koeln_de/ERltJXIJREVNia7OtltWWRQBdul6jd5QmLcxvDIn1JqNww?e=W6DrhD) verfügbar.
 
-Das Projekt begann mit einem Brainstroming und der Formulierung eines [Exposés](#exsposé).
+Das Projekt begann mit einem Brainstroming und der Formulierung eines [Exposés](#exposé).
 
 - [Design Sprint](./designsprint/index.md)
 - [UML-Domaenenmodell](./artefakte/uml-domaenenmodell.md)
@@ -33,7 +33,7 @@ Das Projekt begann mit einem Brainstroming und der Formulierung eines [Exposés]
 
 - Flussdiagramme
 - [UML-Domaenenmodell](./artefakte/uml-domaenenmodell.md)
-- [Zielhirachie/Vision mit einer SWOT-Analyse](./artefakte/zielhierachie.md)
+- [Zielhierarchie/Vision mit einer SWOT-Analyse](./artefakte/zielhierarchie.md)
 
 **MEILENSTEIN 2 (18.01.2022)**
 
