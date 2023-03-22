@@ -1,10 +1,10 @@
 # Value Sensitive Design
 > **Value Sensitive Design** = "Value sensitive design is a theoretically grounded approach to the de-
 sign of technology that accounts for human values in a principled and
-systematic manner throughout the design process" [^1] \
+systematic manner throughout the design process" [^vsd] \
 > **Ability Based Design** = Das Ability Based Design fokussiert sich nicht auf die Beeinträchtigung eines:r jeweiligen
 Benutzers:in, sondern seine:ihre immer noch zur Verfügung stehenden perzeptorischen,
-kognitiven und motorischen Fähigkeiten. 
+kognitiven und motorischen Fähigkeiten.  [^abd]
 
 Das Value Sensitive Design und das Ability Based Design sind Design-Ansätze, die wir kombiniert haben um einen besonderen Fokus auf die menschlichen Werte und den Fähigkeiten unserer Nutzer:innen zu legen. In der folgendenden Tabelle wurden demnach alle Abilities des Ability Based Designs (Value 1-7) und einige weitere Punkte als Werte für unser Projekt bzw. System festgelegt. Anschließend wurde jedem Wert eine Priorität in Hinblick auf unsere Vision und Zielvorstellungen zugeordnet. Dabei bedeutet 1 = Urgent, 2 = High, 3 = Medium, 4 = Low. 
 ### Values:
@@ -25,7 +25,7 @@ Das Value Sensitive Design und das Ability Based Design sind Design-Ansätze, di
 
 ## Value Delivery Scenarios:
 
-> **Value Delivery Scenarios** = "Value delivery scenarios focus on the delivery of value in the world, rather than on quality in use and/or fit to context. Good scenarios tell plausible stories of how value results from envisaged designs."[^2]
+> **Value Delivery Scenarios** = "Value delivery scenarios focus on the delivery of value in the world, rather than on quality in use and/or fit to context. Good scenarios tell plausible stories of how value results from envisaged designs."[^vsd-scenario]
 
 Auf Basis der definierten Values wurden im folglich mehrere Value Delivery Szenarios für die jeweiligen Werte geschrieben, welche auf unser (zu dem Zeitpunkt) aktuelles System basierten. Wichtig war hierbei, dass mindestens 2 Personen unbeeinflusst voneinander an einem Wert gearbeitet haben, um ein Value aus verschiedenen Perspektiven betrachten zu können. Für höher priorisierte Werte wurden mehr Szenarios geschrieben, um eine höhere Vielfalt an Nuzungskontexten abzudecken. 
 
@@ -81,7 +81,9 @@ Paul verlässt nur die Wohnung, um notwendige Dinge zu erledigen. Paul wünscht 
 * Nick möchte selbst entscheiden wann welche Daten geteilt und weiter verabreitet werden. 
 das system soll nicht immer Zugriff auf Daten, Sensoren etc haben, sondern nur wenn wirklich für die Unterstützung benötigt
 
-[^1]: Friedman, Hendry, Borning (2017): A Survery of Value Sensitive Design Methods. Vol. 11, No. 23 (2017) 63-125. Foundations and Trends in Human-Computer Interaction. DOI: 10.1561/1100000015
 
+[^vsd]: Batya Friedman, David G. Hendry and Alan Borning (2017): "A Survey of Value Sensitive Design Methods", Foundations and Trends® in Human–Computer Interaction: Vol. 11: No. 2, pp 63-125. <http://dx.doi.org/10.1561/1100000015>
 
-[^2]: Cockton 2005_A Development Framework for Value-Centred Design
+[^abd]: Jacob O. Wobbrock, Shaun K. Kane, Krzysztof Z. Gajos, Susumu Harada, and Jon Froehlich (2011): Ability-Based Design: Concept, Principles and Examples. ACM Trans. Access. Comput. 3, 3, Article 9 (April 2011), 27 pages. <https://doi.org/10.1145/1952383.1952384>
+
+[^vsd-scenario]: Gilbert Cockton (2005): A development framework for value-centred design. In CHI '05 Extended Abstracts on Human Factors in Computing Systems (CHI EA '05). Association for Computing Machinery, New York, NY, USA, 1292–1295. <https://doi.org/10.1145/1056808.1056899>

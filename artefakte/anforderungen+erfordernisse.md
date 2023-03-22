@@ -6,7 +6,7 @@ Die Definition der Erfordernisse und daraus folgende Anforderungen an das System
 
 Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung priorisiert. Die geschah im ersten Schritt nach der Einschätzung aller Gruppenmitglieder:innen. Die Anforderungen wurden zusätzlich noch nach der Methode der "feasibility, desirability and viability scorecard"[^1] priorisiert.
 
-[^1]: https://www.nngroup.com/articles/prioritization-methods/
+[^1]: Sarah Gibbons (2021). 5 Prioritization Methods in UX Roadmapping. Letzter Zugriff: 22. März 2023. Nielson Norman Group. URL: <https://www.nngroup.com/articles/prioritization-methods/>.
 
 ## Erfordernisse
 
