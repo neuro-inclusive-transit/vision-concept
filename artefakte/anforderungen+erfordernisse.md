@@ -52,7 +52,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Anstelle von rein auf Text, soll sich auf Farben, Formen, Strukturen und andere Ankerpunkte bezogen werden.
    </td>
-   <td>Medium 🏕️
+   <td>Medium&nbsp;🏕️
    </td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Anzeige von Alternativroute + Keine persönliche Schuldzuweisung durch das System
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
   <tr>
@@ -96,7 +96,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Anzahl an Auswahlmöglichkeiten so gering wie möglich, aber so hoch wie nötig halten.
    </td>
-   <td>Medium 🏕️
+   <td>Medium&nbsp;🏕️
    </td>
   </tr>
   <tr>
@@ -118,7 +118,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Es dürfen keine komplizierten Wörter verwendet werden. Sätze sollen möglichst kurz und prägnant sein.
    </td>
-   <td>Medium 🏕️
+   <td>Medium&nbsp;🏕️
    </td>
   </tr>
   <tr>
@@ -140,7 +140,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Verwendung möglichst vieler Erklärgrafiken + Möglichkeit, sich Texte vorlesen zu lassen.
    </td>
-   <td>Medium 🏕️
+   <td>Medium&nbsp;🏕️
    </td>
   </tr>
   <tr>
@@ -162,7 +162,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Möglichkeit zum Abspielen eigener Musik.
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
   <tr>
@@ -184,7 +184,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Hinweise verschwinden nicht von alleine, sondern müssen aktiv geschlossen werden.
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
   <tr>
@@ -206,7 +206,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Auswahlsituationen frühstmöglich ankündigen (Bsp. im Tutorial/Onboarding).
    </td>
-   <td>Low 🏝️
+   <td>Low&nbsp;🏝️
    </td>
   </tr>
   <tr>
@@ -228,7 +228,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Anzeige der zu erwartenden Besucherzahlen; Vorschlagen von Verbindungen und Reisezeiten mit geringer Besucherzahl. Das System muss Kontextinformationen (Wetter/Großveranstaltungen/Stau auf den Straßen/Wochentag) mit in die zu erwartende Auslastung mit einberechnen
    </td>
-   <td>Medium 🏕️
+   <td>Medium&nbsp;🏕️
    </td>
   </tr>
   <tr>
@@ -250,7 +250,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Anzeige der relevanten Informationen; Komplette Übersicht der Reise.
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
   <tr>
@@ -272,7 +272,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Audio-Signale nur über Kopfhörer oder in geringer Lautstärke zu lassen.
    </td>
-   <td>Medium 🏕️
+   <td>Medium&nbsp;🏕️
    </td>
   </tr>
   <tr>
@@ -294,7 +294,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Möglichkeit, die Audiobegleitung manuell oder automatisch während eines akustischen Systemsignals pausieren zu können.
    </td>
-   <td>Low 🏝️
+   <td>Low&nbsp;🏝️
    </td>
   </tr>
   <tr>
@@ -316,7 +316,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Bei der Ankunft des Reisenden, werden gekoppelte Kontaktpersonen benachrichtigt.
    </td>
-   <td>Medium 🏕️
+   <td>Medium&nbsp;🏕️
    </td>
   </tr>
   <tr>
@@ -338,7 +338,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Vor einer Reise sollten unterschiedliche Reisepräferenzen für den:die Nutzer:in eingestellt werden können. (Mit E18 in einer Anforderungzusammenfassen)
    </td>
-   <td>Medium 🏕️
+   <td>Medium&nbsp;🏕️
    </td>
   </tr>
   <tr>
@@ -360,7 +360,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Es sollten die Möglichkeit bestehen, Präferenzen im Hinblick auf verschiedene Verkehrsmitteln setzen zu können (=> White/Black-List).
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
   <tr>
@@ -382,7 +382,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Wenn sich unterschiedliche System-Quellen uneinig sind, möchte ich, dass diese zur Entscheidungsfindung kommuniziert werden und ich eine wahrscheinlich richtige Tatsache ableiten kann. Das System muss die wahrscheinlichste Variante hervorheben.
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
   <tr>
@@ -404,7 +404,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Ich kann das Medium wechseln ohne das Informationen verloren gehen und ich kann den Wechsel in ein neues Medium/Kodalität/Modalität initiieren ohne dass ich auf die bestehende Permutation angewiesen bin.
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
   <tr>
@@ -426,7 +426,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Vor der ersten Inbetriebnahme sollten alle Möglichkeiten zu Indiviualisierung des Systems dem:der Nutzer:in offengelegt werden. Dieser Zugriff sollte auch während der Nutzung persistent bestehen bleiben.
    </td>
-   <td>Medium 🏕️
+   <td>Medium&nbsp;🏕️
    </td>
   </tr>
   <tr>
@@ -448,7 +448,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Bei u.a. dem Reisenden bereits bekannten Strecken, sollte das System statt als proaktive Reisebegleitung eher als Fallback dienen.
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
   <tr>
@@ -470,7 +470,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>System lernt und passt sich an Nutzer:in an
    </td>
-   <td>Low 🏝️
+   <td>Low&nbsp;🏝️
    </td>
   </tr>
   <tr>
@@ -492,7 +492,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Das System teilt dem:der Reisenden mit, welche Faktoren inwiefern für die Berechnung der Transitzeit berücksichtigt werden.
    </td>
-   <td>Low 🏝️
+   <td>Low&nbsp;🏝️
    </td>
   </tr>
   <tr>
@@ -514,7 +514,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>es können zusätzliche Benachrichtigungen aktiviert werden, 
    </td>
-   <td>Medium 🏕️
+   <td>Medium&nbsp;🏕️
    </td>
   </tr>
   <tr>
@@ -536,7 +536,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>System zeigt aktuelle Position im Kontext von Ortseigenschaften
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
   <tr>
@@ -558,7 +558,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>System zeigt eine Routenvorschau an
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
   <tr>
@@ -584,7 +584,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
 <p>
 Übersicht über die gefahrene strecke übermitteln
    </td>
-   <td>Medium 🏕️
+   <td>Medium&nbsp;🏕️
    </td>
   </tr>
   <tr>
@@ -606,7 +606,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>System reagiert bei Fehlern und schlägt Alternative vor
    </td>
-   <td>Urgent 🌋
+   <td>Urgent&nbsp;🌋
    </td>
   </tr>
   <tr>
@@ -628,7 +628,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>System warnt vor unmittelbaren Eintreten der Situation oder im Vorfeld der Reise
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
   <tr>
@@ -650,7 +650,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>System nennt mögliche Rückszugsorte und aktuelisiert Route mit entsprechender Pause
    </td>
-   <td>Medium 🏕️
+   <td>Medium&nbsp;🏕️
    </td>
   </tr>
   <tr>
@@ -672,7 +672,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Das System fragt den:die Nutzer:in nach seiner:ihrer Einwilligung über die Nutzung/Messung von Daten. Die Haupt-Funktionen des Systems sind von der Datensammlung unabhängig oder werden in einem kleineren Rahmen zur Verfügung gestellt. Die Datenverarbeitung findet hauptsächlich auf dem eigenen Endgerät statt.
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
   <tr>
@@ -694,7 +694,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Das System bietet den vollen Funktionsumfang an und unterscheidet (falls vorhanden) nicht zwischen registrierten und nicht-registrierten Nutzer:innen
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
   <tr>
@@ -716,7 +716,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>Das System sollte so weit wie möglich die benötigte Unterstützung eigenständig messen oder durch Kontextinformationen ableiten können.
    </td>
-   <td>High 🏔️
+   <td>High&nbsp;🏔️
    </td>
   </tr>
 </table>
@@ -743,10 +743,6 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td><strong>Abhängig von</strong>
    </td>
-   <td><strong>Autor (Kürzel)</strong>
-   </td>
-   <td><strong>Reviewed?</strong>
-   </td>
    <td><strong>Priorität</strong>
    </td>
    <td><strong>Komplexität/Größe</strong>
@@ -762,7 +758,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;01</strong></p>
+<strong>A&nbsp;01</strong></p>
 
    </td>
    <td>Reisebegleitung
@@ -777,13 +773,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>FG
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>2 – Large 🦑
+   <td>Large&nbsp;🦑
    </td>
    <td>2
    </td>
@@ -796,7 +788,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;02</strong></p>
+<strong>A&nbsp;02</strong></p>
 
    </td>
    <td>Reisebegleitung
@@ -811,13 +803,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>FG
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>6
    </td>
@@ -830,7 +818,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;03</strong></p>
+<strong>A&nbsp;03</strong></p>
 
    </td>
    <td>Texte
@@ -845,13 +833,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>FG
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>8
    </td>
@@ -864,7 +848,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;04</strong></p>
+<strong>A&nbsp;04</strong></p>
 
    </td>
    <td>Texte
@@ -879,13 +863,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>FG
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>7
    </td>
@@ -898,7 +878,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;05</strong></p>
+<strong>A&nbsp;05</strong></p>
 
    </td>
    <td>Reisevorbereitung (Auslastung)
@@ -913,13 +893,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;08
    </td>
-   <td>FG
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>2 – Large 🦑
+   <td>Large&nbsp;🦑
    </td>
    <td>3
    </td>
@@ -932,7 +908,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;06</strong></p>
+<strong>A&nbsp;06</strong></p>
 
    </td>
    <td>Reisevorbereitung (Auslastung)
@@ -947,13 +923,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;05
    </td>
-   <td>FG
+   <td>Low&nbsp;🏝️
    </td>
-   <td>WAHR
-   </td>
-   <td>4 – Low 🏝️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>3
    </td>
@@ -966,7 +938,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;07</strong></p>
+<strong>A&nbsp;07</strong></p>
 
    </td>
    <td>Reisevorbereitung (Auslastung)
@@ -981,13 +953,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;05
    </td>
-   <td>FG
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>3
    </td>
@@ -1000,7 +968,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;08</strong></p>
+<strong>A&nbsp;08</strong></p>
 
    </td>
    <td>Reisevorbereitung (Auslastung)
@@ -1015,13 +983,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>FG
+   <td>Low&nbsp;🏝️
    </td>
-   <td>WAHR
-   </td>
-   <td>4 – Low 🏝️
-   </td>
-   <td>2 – Large 🦑
+   <td>Large&nbsp;🦑
    </td>
    <td>2
    </td>
@@ -1034,7 +998,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;09</strong></p>
+<strong>A&nbsp;09</strong></p>
 
    </td>
    <td>Rückmeldung
@@ -1049,13 +1013,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;10
    </td>
-   <td>FG
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>5 – Tiny 🦔
+   <td>Tiny&nbsp;🦔
    </td>
    <td>3
    </td>
@@ -1068,7 +1028,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;10</strong></p>
+<strong>A&nbsp;10</strong></p>
 
    </td>
    <td>Rückmeldung
@@ -1083,13 +1043,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>FG
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>3
    </td>
@@ -1102,7 +1058,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;11</strong></p>
+<strong>A&nbsp;11</strong></p>
 
    </td>
    <td>Rückmeldung
@@ -1117,13 +1073,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;09
    </td>
-   <td>FG
+   <td>Low&nbsp;🏝️
    </td>
-   <td>WAHR
-   </td>
-   <td>4 – Low 🏝️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>7
    </td>
@@ -1136,7 +1088,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;12</strong></p>
+<strong>A&nbsp;12</strong></p>
 
    </td>
    <td>Reisebegleitung (Wechsel der Kodalität)
@@ -1151,13 +1103,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>FG
+   <td>Urgent&nbsp;🌋
    </td>
-   <td>WAHR
-   </td>
-   <td>1 – Urgent 🌋
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>6
    </td>
@@ -1170,7 +1118,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;13</strong></p>
+<strong>A&nbsp;13</strong></p>
 
    </td>
    <td>Reisebegleitung (Wechsel der Kodalität)
@@ -1185,13 +1133,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;12
    </td>
-   <td>FG
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>2 – Large 🦑
+   <td>Large&nbsp;🦑
    </td>
    <td>6
    </td>
@@ -1204,7 +1148,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;14</strong></p>
+<strong>A&nbsp;14</strong></p>
 
    </td>
    <td>Transparenz bei Transitzeiten
@@ -1219,13 +1163,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;15
    </td>
-   <td>FG
+   <td>Low&nbsp;🏝️
    </td>
-   <td>WAHR
-   </td>
-   <td>4 – Low 🏝️
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>6
    </td>
@@ -1238,7 +1178,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;16</strong></p>
+<strong>A&nbsp;16</strong></p>
 
    </td>
    <td>Information bei internen/externen Ereignissen
@@ -1253,13 +1193,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;40
    </td>
-   <td>LP
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>4
    </td>
@@ -1272,7 +1208,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;17</strong></p>
+<strong>A&nbsp;17</strong></p>
 
    </td>
    <td>Information bei internen/externen Ereignissen
@@ -1287,13 +1223,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>LP
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>5 – Tiny 🦔
+   <td>Tiny&nbsp;🦔
    </td>
    <td>10
    </td>
@@ -1306,7 +1238,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;18</strong></p>
+<strong>A&nbsp;18</strong></p>
 
    </td>
    <td>Musik
@@ -1321,13 +1253,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>LP
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>5 – Tiny 🦔
+   <td>Tiny&nbsp;🦔
    </td>
    <td>4
    </td>
@@ -1340,7 +1268,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;19</strong></p>
+<strong>A&nbsp;19</strong></p>
 
    </td>
    <td>Reiseinformationen
@@ -1355,13 +1283,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>LP
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>2 – Large 🦑
+   <td>Large&nbsp;🦑
    </td>
    <td>6
    </td>
@@ -1374,7 +1298,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;20</strong></p>
+<strong>A&nbsp;20</strong></p>
 
    </td>
    <td>Standort
@@ -1389,13 +1313,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>FG
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>3
    </td>
@@ -1408,7 +1328,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;21</strong></p>
+<strong>A&nbsp;21</strong></p>
 
    </td>
    <td>Onboarding
@@ -1423,13 +1343,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>FG
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>10
    </td>
@@ -1442,7 +1358,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;22</strong></p>
+<strong>A&nbsp;22</strong></p>
 
    </td>
    <td>Reisevorbereitung (Präferenzen)
@@ -1457,13 +1373,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>LP
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>2 – Large 🦑
+   <td>Large&nbsp;🦑
    </td>
    <td>5
    </td>
@@ -1476,7 +1388,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;23</strong></p>
+<strong>A&nbsp;23</strong></p>
 
    </td>
    <td>Onboarding
@@ -1491,13 +1403,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>LP
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>6
    </td>
@@ -1510,7 +1418,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;24</strong></p>
+<strong>A&nbsp;24</strong></p>
 
    </td>
    <td>Reisebegleitung
@@ -1525,13 +1433,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>FG
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>4
    </td>
@@ -1544,7 +1448,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;25</strong></p>
+<strong>A&nbsp;25</strong></p>
 
    </td>
    <td>Lernfähigkeit bei Fehlern
@@ -1559,13 +1463,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>LP
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>6
    </td>
@@ -1578,7 +1478,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;27</strong></p>
+<strong>A&nbsp;27</strong></p>
 
    </td>
    <td>Keine Registrierung
@@ -1593,13 +1493,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>LP
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>4
    </td>
@@ -1612,7 +1508,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;28</strong></p>
+<strong>A&nbsp;28</strong></p>
 
    </td>
    <td>Auswahlmöglichkeiten 
@@ -1627,13 +1523,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;49
    </td>
-   <td>KH
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>5
    </td>
@@ -1646,7 +1538,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;29</strong></p>
+<strong>A&nbsp;29</strong></p>
 
    </td>
    <td>Auswahlmöglichkeiten 
@@ -1661,13 +1553,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;28
    </td>
-   <td>KH
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>5
    </td>
@@ -1680,7 +1568,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;30</strong></p>
+<strong>A&nbsp;30</strong></p>
 
    </td>
    <td>Reiseinformationen
@@ -1695,13 +1583,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;19
    </td>
-   <td>LP
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>6
    </td>
@@ -1714,7 +1598,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;31</strong></p>
+<strong>A&nbsp;31</strong></p>
 
    </td>
    <td>Hinweise
@@ -1729,13 +1613,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>KH
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>7
    </td>
@@ -1748,7 +1628,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;32</strong></p>
+<strong>A&nbsp;32</strong></p>
 
    </td>
    <td>Onboarding
@@ -1763,13 +1643,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;23
    </td>
-   <td>LP
+   <td>Urgent&nbsp;🌋
    </td>
-   <td>WAHR
-   </td>
-   <td>1 – Urgent 🌋
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>6
    </td>
@@ -1782,7 +1658,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;33</strong></p>
+<strong>A&nbsp;33</strong></p>
 
    </td>
    <td>Individualisierungsmöglichkeiten
@@ -1797,13 +1673,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;32
    </td>
-   <td>LP
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>6
    </td>
@@ -1816,7 +1688,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;34</strong></p>
+<strong>A&nbsp;34</strong></p>
 
    </td>
    <td>Hinweise
@@ -1831,13 +1703,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;31
    </td>
-   <td>KH
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>9
    </td>
@@ -1850,7 +1718,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;37</strong></p>
+<strong>A&nbsp;37</strong></p>
 
    </td>
    <td>Hinweise, Onboarding
@@ -1865,13 +1733,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;28
    </td>
-   <td>LB
+   <td>Low&nbsp;🏝️
    </td>
-   <td>WAHR
-   </td>
-   <td>4 – Low 🏝️
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>6
    </td>
@@ -1884,7 +1748,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;38</strong></p>
+<strong>A&nbsp;38</strong></p>
 
    </td>
    <td>Audiobegleitung
@@ -1899,13 +1763,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>LB
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>6
    </td>
@@ -1918,7 +1778,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;39</strong></p>
+<strong>A&nbsp;39</strong></p>
 
    </td>
    <td>Audiobegleitung
@@ -1933,13 +1793,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;18
    </td>
-   <td>LB
+   <td>Low&nbsp;🏝️
    </td>
-   <td>WAHR
-   </td>
-   <td>4 – Low 🏝️
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>4
    </td>
@@ -1952,7 +1808,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;40</strong></p>
+<strong>A&nbsp;40</strong></p>
 
    </td>
    <td>Externe Daten / Kontext
@@ -1967,13 +1823,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>LB
+   <td>Urgent&nbsp;🌋
    </td>
-   <td>WAHR
-   </td>
-   <td>1 – Urgent 🌋
-   </td>
-   <td>2 – Large 🦑
+   <td>Large&nbsp;🦑
    </td>
    <td>5
    </td>
@@ -1986,7 +1838,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;41</strong></p>
+<strong>A&nbsp;41</strong></p>
 
    </td>
    <td>Datenaktualität
@@ -2001,13 +1853,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;40, E&nbsp;14
    </td>
-   <td>LB
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>5
    </td>
@@ -2020,7 +1868,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;42</strong></p>
+<strong>A&nbsp;42</strong></p>
 
    </td>
    <td>Reiseinformationen/Datenakutalität
@@ -2035,13 +1883,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;40
    </td>
-   <td>LB
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>2 – Large 🦑
+   <td>Large&nbsp;🦑
    </td>
    <td>3
    </td>
@@ -2054,7 +1898,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;43</strong></p>
+<strong>A&nbsp;43</strong></p>
 
    </td>
    <td>Anpassung Gehzeit
@@ -2069,13 +1913,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;44
    </td>
-   <td>LB
+   <td>Low&nbsp;🏝️
    </td>
-   <td>WAHR
-   </td>
-   <td>4 – Low 🏝️
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>2
    </td>
@@ -2088,7 +1928,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;45</strong></p>
+<strong>A&nbsp;45</strong></p>
 
    </td>
    <td>Routenvorschau
@@ -2103,13 +1943,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>LB
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>3
    </td>
@@ -2122,7 +1958,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;47</strong></p>
+<strong>A&nbsp;47</strong></p>
 
    </td>
    <td>Rückzugsmöglichkeiten
@@ -2137,13 +1973,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>LB
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>2 – Large 🦑
+   <td>Large&nbsp;🦑
    </td>
    <td>5
    </td>
@@ -2156,7 +1988,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;48</strong></p>
+<strong>A&nbsp;48</strong></p>
 
    </td>
    <td>Akustische (Stör) Signale
@@ -2171,13 +2003,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>KH
+   <td>Low&nbsp;🏝️
    </td>
-   <td>WAHR
-   </td>
-   <td>4 – Low 🏝️
-   </td>
-   <td>5 – Tiny 🦔
+   <td>Tiny&nbsp;🦔
    </td>
    <td>6
    </td>
@@ -2190,7 +2018,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;49</strong></p>
+<strong>A&nbsp;49</strong></p>
 
    </td>
    <td>Reisevorbereitung (Präferenzen)
@@ -2205,13 +2033,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>KH
+   <td>Urgent&nbsp;🌋
    </td>
-   <td>WAHR
-   </td>
-   <td>1 – Urgent 🌋
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>6
    </td>
@@ -2224,7 +2048,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;50</strong></p>
+<strong>A&nbsp;50</strong></p>
 
    </td>
    <td>Reisevorbereitung (Präferenzen)
@@ -2239,13 +2063,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;49
    </td>
-   <td>KH
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>6
    </td>
@@ -2258,7 +2078,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;52</strong></p>
+<strong>A&nbsp;52</strong></p>
 
    </td>
    <td>Reisebegleitung bei bekannten Routen
@@ -2273,13 +2093,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>KH
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>8
    </td>
@@ -2292,7 +2108,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;53</strong></p>
+<strong>A&nbsp;53</strong></p>
 
    </td>
    <td>Reisebegleitung bei bekannten Routen
@@ -2307,13 +2123,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>KH
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>7
    </td>
@@ -2326,7 +2138,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;54</strong></p>
+<strong>A&nbsp;54</strong></p>
 
    </td>
    <td>Reisebegleitung bei bekannten Routen
@@ -2341,13 +2153,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;52
    </td>
-   <td>KH
+   <td>Urgent&nbsp;🌋
    </td>
-   <td>WAHR
-   </td>
-   <td>1 – Urgent 🌋
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>5
    </td>
@@ -2360,7 +2168,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;55</strong></p>
+<strong>A&nbsp;55</strong></p>
 
    </td>
    <td>Reisebegleitung bei bekannten Routen
@@ -2375,13 +2183,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>KH
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>6
    </td>
@@ -2394,7 +2198,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;56</strong></p>
+<strong>A&nbsp;56</strong></p>
 
    </td>
    <td>Warnung vor Schwierigkeiten/Problemsiatuationen
@@ -2409,13 +2213,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>KH
+   <td>Urgent&nbsp;🌋
    </td>
-   <td>WAHR
-   </td>
-   <td>1 – Urgent 🌋
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>6
    </td>
@@ -2428,7 +2228,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;57</strong></p>
+<strong>A&nbsp;57</strong></p>
 
    </td>
    <td>Warnung vor Schwierigkeiten/Problemsiatuationen
@@ -2443,13 +2243,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;58, E&nbsp;56
    </td>
-   <td>KH
+   <td>Urgent&nbsp;🌋
    </td>
-   <td>WAHR
-   </td>
-   <td>1 – Urgent 🌋
-   </td>
-   <td>2 – Large 🦑
+   <td>Large&nbsp;🦑
    </td>
    <td>6
    </td>
@@ -2462,7 +2258,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;58</strong></p>
+<strong>A&nbsp;58</strong></p>
 
    </td>
    <td>Warnung vor Schwierigkeiten/Problemsiatuationen
@@ -2477,13 +2273,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;57
    </td>
-   <td>KH
+   <td>Medium&nbsp;🏕️
    </td>
-   <td>WAHR
-   </td>
-   <td>3 – Medium 🏕️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>5
    </td>
@@ -2496,7 +2288,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
   <tr>
    <td><p style="text-align: right">
-<strong>E&nbsp;60</strong></p>
+<strong>A&nbsp;60</strong></p>
 
    </td>
    <td>Reisebegleitung Art der Hinweise
@@ -2511,13 +2303,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>E&nbsp;59
    </td>
-   <td>KH
+   <td>High&nbsp;🏔️
    </td>
-   <td>WAHR
-   </td>
-   <td>2 – High 🏔️
-   </td>
-   <td>3 – Medium 🐂
+   <td>Medium&nbsp;🐂
    </td>
    <td>5
    </td>
@@ -2528,281 +2316,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    <td>16
    </td>
   </tr>
-  <tr>
+    <tr>
    <td><p style="text-align: right">
-<strong><del>E&nbsp;44</del></strong></p>
-
-   </td>
-   <td><del>Anpassung Gehzeit</del>
-   </td>
-   <td><del>Funktional</del>
-   </td>
-   <td>
-   </td>
-   <td><del>Das System sollte dazu fähig sein, die durchschnittliche Zeit/Geschwindigkeit für den Fußweg bis zum Ziel der einzelnen Nutzer:innen berechnen zu können. </del>
-   </td>
-   <td><del>E&nbsp;25</del>
-   </td>
-   <td>
-   </td>
-   <td><del>LB</del>
-   </td>
-   <td>WAHR
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong><del>E&nbsp;26</del></strong></p>
-
-   </td>
-   <td><del>Fehlersituationen</del>
-   </td>
-   <td><del>Funktional</del>
-   </td>
-   <td><del>Wenn es zu Fehlern kommt</del>
-   </td>
-   <td><del>muss das System fähig sein, den Nutzer:innen eine Alternativroute anzubieten.</del>
-   </td>
-   <td><del>E&nbsp;36</del>
-   </td>
-   <td><del>E&nbsp;16</del>
-   </td>
-   <td><del>LP</del>
-   </td>
-   <td>WAHR
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong><del>E&nbsp;46</del></strong></p>
-
-   </td>
-   <td><del>Entfernen aus schwierigen Situationen</del>
-   </td>
-   <td><del>Funktional</del>
-   </td>
-   <td>
-   </td>
-   <td><del>Das System muss den Nutzer:innen die Möglichkeit bieten, Auskunft über das akute Eintreten von Stress- und Problemsituationen zu geben.</del>
-   </td>
-   <td><del>E&nbsp;41</del>
-   </td>
-   <td>
-   </td>
-   <td><del>LB</del>
-   </td>
-   <td>WAHR
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong><del>E&nbsp;35</del></strong></p>
-
-   </td>
-   <td><del>Hinweise</del>
-   </td>
-   <td><del>Funktional</del>
-   </td>
-   <td><del>Wurde ein Hinweis geschlossen, welcher immer noch aktuell ist, </del>
-   </td>
-   <td><del>muss das System den Nutzenden die Möglichkeit bieten diesen wieder zu öffnen. Außerdemm muss erkennbar sein, dass es einen aktuellen Hinweis gibt.</del>
-   </td>
-   <td><del>E&nbsp;08</del>
-   </td>
-   <td><del>E&nbsp;31</del>
-   </td>
-   <td><del>KH</del>
-   </td>
-   <td>WAHR
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong><del>E&nbsp;36</del></strong></p>
-
-   </td>
-   <td><del>Texte</del>
-   </td>
-   <td><del>Qualitativ</del>
-   </td>
-   <td>
-   </td>
-   <td><del>Das System muss den Nutzer:innen die Möglichkeit bieten, Texte in leichter Sprache anzeigen zu lassen.</del>
-   </td>
-   <td><del>E&nbsp;05</del>
-   </td>
-   <td>
-   </td>
-   <td><del>LB</del>
-   </td>
-   <td>WAHR
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong><del>E&nbsp;51</del></strong></p>
-
-   </td>
-   <td><del>Reisevorbereitung (Präferenzen)</del>
-   </td>
-   <td><del>Funktional</del>
-   </td>
-   <td>
-   </td>
-   <td><del>Das System sollte den Nutzenden erlauben ihre Präferenzen nur für eine bestimmte / die aktuelle Reise ändern zu können. Danach sollen die voreingestellten Präferenzen wieder übernommen werden. </del>
-   </td>
-   <td><del>E&nbsp;18</del>
-   </td>
-   <td>
-   </td>
-   <td><del>KH</del>
-   </td>
-   <td>WAHR
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong><del>E&nbsp;59</del></strong></p>
-
-   </td>
-   <td><del>Reisebegleitung Art der Hinweise</del>
-   </td>
-   <td><del>Funktional</del>
-   </td>
-   <td>
-   </td>
-   <td><del>Das System erlaubt Nutzenden bestimmte Einstellungen für verschiedenen Gefühlslagen/Moods einspeichern zu können</del>
-   </td>
-   <td><del>E&nbsp;46</del>
-   </td>
-   <td>
-   </td>
-   <td><del>KH</del>
-   </td>
-   <td>WAHR
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong><del>E&nbsp;15</del></strong></p>
-
-   </td>
-   <td><del>Transparenz bei Transitzeiten</del>
-   </td>
-   <td><del>Funktional</del>
-   </td>
-   <td>
-   </td>
-   <td><del>Das System muss die typischen Geschwindigkeiten über alle Individual-Verkehrsmittel (Fuß / Fahrrad / Auto) über einen langen Zeitraum messen.</del>
-   </td>
-   <td><del>E&nbsp;26</del>
-   </td>
-   <td>
-   </td>
-   <td><del>FG</del>
-   </td>
-   <td>WAHR
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>0
-   </td>
-  </tr>
-  <tr>
-   <td><p style="text-align: right">
-<strong>E&nbsp;61</strong></p>
+<strong>A&nbsp;61</strong></p>
 
    </td>
    <td>Warnung vor Schwierigkeiten/Problemsiatuationen
@@ -2817,13 +2333,9 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    </td>
    <td>
    </td>
-   <td>LP
+   <td>Urgent&nbsp;🌋
    </td>
-   <td>WAHR
-   </td>
-   <td>1 – Urgent 🌋
-   </td>
-   <td>4 – Small 🐇
+   <td>Small&nbsp;🐇
    </td>
    <td>6
    </td>
@@ -2832,6 +2344,246 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
    <td>6
    </td>
    <td>21
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong><del>A&nbsp;44</del></strong></p>
+
+   </td>
+   <td><del>Anpassung Gehzeit</del>
+   </td>
+   <td><del>Funktional</del>
+   </td>
+   <td>
+   </td>
+   <td><del>Das System sollte dazu fähig sein, die durchschnittliche Zeit/Geschwindigkeit für den Fußweg bis zum Ziel der einzelnen Nutzer:innen berechnen zu können. </del>
+   </td>
+   <td><del>E&nbsp;25</del>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong><del>A&nbsp;26</del></strong></p>
+
+   </td>
+   <td><del>Fehlersituationen</del>
+   </td>
+   <td><del>Funktional</del>
+   </td>
+   <td><del>Wenn es zu Fehlern kommt</del>
+   </td>
+   <td><del>muss das System fähig sein, den Nutzer:innen eine Alternativroute anzubieten.</del>
+   </td>
+   <td><del>E&nbsp;36</del>
+   </td>
+   <td><del>E&nbsp;16</del>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong><del>A&nbsp;46</del></strong></p>
+
+   </td>
+   <td><del>Entfernen aus schwierigen Situationen</del>
+   </td>
+   <td><del>Funktional</del>
+   </td>
+   <td>
+   </td>
+   <td><del>Das System muss den Nutzer:innen die Möglichkeit bieten, Auskunft über das akute Eintreten von Stress- und Problemsituationen zu geben.</del>
+   </td>
+   <td><del>E&nbsp;41</del>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong><del>A&nbsp;35</del></strong></p>
+
+   </td>
+   <td><del>Hinweise</del>
+   </td>
+   <td><del>Funktional</del>
+   </td>
+   <td><del>Wurde ein Hinweis geschlossen, welcher immer noch aktuell ist, </del>
+   </td>
+   <td><del>muss das System den Nutzenden die Möglichkeit bieten diesen wieder zu öffnen. Außerdemm muss erkennbar sein, dass es einen aktuellen Hinweis gibt.</del>
+   </td>
+   <td><del>E&nbsp;08</del>
+   </td>
+   <td><del>E&nbsp;31</del>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong><del>A&nbsp;36</del></strong></p>
+
+   </td>
+   <td><del>Texte</del>
+   </td>
+   <td><del>Qualitativ</del>
+   </td>
+   <td>
+   </td>
+   <td><del>Das System muss den Nutzer:innen die Möglichkeit bieten, Texte in leichter Sprache anzeigen zu lassen.</del>
+   </td>
+   <td><del>E&nbsp;05</del>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong><del>A&nbsp;51</del></strong></p>
+
+   </td>
+   <td><del>Reisevorbereitung (Präferenzen)</del>
+   </td>
+   <td><del>Funktional</del>
+   </td>
+   <td>
+   </td>
+   <td><del>Das System sollte den Nutzenden erlauben ihre Präferenzen nur für eine bestimmte / die aktuelle Reise ändern zu können. Danach sollen die voreingestellten Präferenzen wieder übernommen werden. </del>
+   </td>
+   <td><del>E&nbsp;18</del>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong><del>A&nbsp;59</del></strong></p>
+
+   </td>
+   <td><del>Reisebegleitung Art der Hinweise</del>
+   </td>
+   <td><del>Funktional</del>
+   </td>
+   <td>
+   </td>
+   <td><del>Das System erlaubt Nutzenden bestimmte Einstellungen für verschiedenen Gefühlslagen/Moods einspeichern zu können</del>
+   </td>
+   <td><del>E&nbsp;46</del>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>0
+   </td>
+  </tr>
+  <tr>
+   <td><p style="text-align: right">
+<strong><del>A&nbsp;15</del></strong></p>
+
+   </td>
+   <td><del>Transparenz bei Transitzeiten</del>
+   </td>
+   <td><del>Funktional</del>
+   </td>
+   <td>
+   </td>
+   <td><del>Das System muss die typischen Geschwindigkeiten über alle Individual-Verkehrsmittel (Fuß / Fahrrad / Auto) über einen langen Zeitraum messen.</del>
+   </td>
+   <td><del>E&nbsp;26</del>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>
+   </td>
+   <td>0
    </td>
   </tr>
 </table>
