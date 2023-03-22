@@ -51,6 +51,7 @@ Das Projekt begann mit einem Brainstroming und der Formulierung eines [Exposés]
 
 - [NUI/GUI-Konzept](./artefakte/nui-gui-konzept.md)
 - [Technische System-Architektur](./artefakte/systemarchitecture.md)
+- [Prototype](https://www.figma.com/proto/mJOAhkmtCtxVFNQRpSg7NC/P1-Prototype?page-id=19%3A381&node-id=319-11552&viewport=-7100%2C41%2C0.76&scaling=scale-down&starting-point-node-id=573%3A10754&show-proto-sidebar=1)
 
 ---
 
