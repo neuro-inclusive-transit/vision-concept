@@ -1,5 +1,8 @@
 # ÖPNV-Navigation für nicht-neurotypische Personen
 
+> **Kurzvorstellung:** \
+> Für nicht-neurotypische Personen stellt die Reise mit dem ÖPNV eine besondere Herausforderung dar. Reizüberflutung durch große Menschenansammlungen und kurzfristige Veränderungen am Fahrplan belasten diese Personengruppe im hohen Maße und grenzen diese von einer bezahlbaren und klimafreundlichen Mobilität aus. Unser konzeptionell entwickeltes System ist ein Begleiter in solchen überfordernden Situationen, in dem es indiviuell- und situativ-abhängige Unterstützung und Alternativen bietet. Im Gestaltungsprozess waren Werte wie Autonomie und Stärkung des Selbstbewusstsein besonders wichtig, mit dem Ziel Nutzende nicht vom System abhängig zu machen.
+
 Dokumentation für \
 Projekt 1 "Vision und Konzept" \
 im Medieninformatik Master (Schwerpunkt "Human-Computer Interaction") \
@@ -20,7 +23,6 @@ im Wintersemester 2022/23
 
 ## Projektplan/Übersicht
 
-> **Note**
 > Der [Projektplan inklusive Timings ist als Excel-Datei](https://thkoelnde-my.sharepoint.com/:x:/g/personal/leonard_pelzer_smail_th-koeln_de/ERltJXIJREVNia7OtltWWRQBdul6jd5QmLcxvDIn1JqNww?e=W6DrhD) verfügbar.
 
 Das Projekt begann mit einem Brainstroming und der Formulierung eines [Exposés](#exposé).
