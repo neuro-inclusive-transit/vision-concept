@@ -1,7 +1,7 @@
 Die Definition der Erfordernisse und daraus folgende Anforderungen an das System sind ein elementarer Bestandteil der Stakeholderanalyse. Grundlage hierfür sind die zuvor geführten Stakeholderinterviews. 
 
 - [Google-Docs Dokument](https://docs.google.com/spreadsheets/d/1jWVji9fXiIi3NdzY2DgPvR8sU0q2yXTpKpeOKPIMDCI/edit?usp=sharing)
-- [Erfordernissen](#erfordernisse)
+- [Erfordernisse](#erfordernisse)
 - [Anforderungen](#anforderungen)
 
 Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung priorisiert. Die geschah im ersten Schritt nach der Einschätzung aller Gruppenmitglieder:innen. Die Anforderungen wurden zusätzlich noch nach der Methode der "feasibility, desirability and viability scorecard"[^1] priorisiert.
