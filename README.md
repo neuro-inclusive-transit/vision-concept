@@ -11,11 +11,11 @@ Campus Gummersbach \
 im Wintersemester 2022/23
 
 **Gruppenmitglieder:**
-- Lining Bao
-- Finn Gedrath
-- Katrin Hartz
-- Ali Obaidi
-- Leonard Pelzer
+- Lining Bao (lining.bao@smail.th-koeln.de)
+- Finn Gedrath (finn_nils.gedrath@smail.th-koeln.de)
+- Katrin Hartz (katrin.hartz@smail.th-koeln.de)
+- Ali Obaidi (ali.obaidi@smail.th-koeln.de)
+- Leonard Pelzer (leonard.pelzer@smail.th-koeln.de)
 
 **Project-Owner:**
 - Prof. Dr. Gerhard Hartmann
