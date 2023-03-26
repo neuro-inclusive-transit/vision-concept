@@ -83,3 +83,156 @@ Die Interviews wurden entweder Remote oder persönlich durchgeführt. Der:die In
 
 ## Ergebnisse
 
+Während der Interviews wurden verschiedene Barrieren beschrieben und wie die Befragten mit diesen Situationen umgehen. 
+
+# Barrieren im Alltag 
+
+<table>
+  <tr>
+   <td><p style="text-align: right">
+     <strong>Barriere</strong></p>
+  </td>
+  <td><strong>Beschreibung von Barriere, Ängsten und Gefühle</strong>
+  </td>
+   <td><strong>Lösungen und Hilfsmittel</strong>
+  </td>
+  </tr>
+  
+   <tr> 
+    <td>viele Menschen </td>
+    <td>Mentale Anstrengung, da zu viele Reize </td>
+    <td>Kopfhörer, um sich akustisch abzuschirmen </td>
+  </tr>
+  
+  <tr> 
+    <td>Aufmerksamkeit & fehlender Fokus </td>
+    <td>Schwierigkeiten bei der Konzentration
+     </td>
+    <td>Fokus kann durch Medikamente verstärkt werden</td>
+  </tr>
+  
+  <tr> 
+    <td>  </td>
+    <td>wechselt häufig zwischen verschiedenen Themen
+     </td>
+    <td>Menschen sollen darauf aufmerksam machen, wenn Gespräche zu durcheinander sind</td>
+  </tr>
+  
+   <tr> 
+    <td>genaue Planung nötig </td>
+    <td>Plötzliche Planänderungen führen zu sehr starken Stressituationen</td>
+    <td>checkt mehrmals (mehrere Tage), was alles notwendig ist um einen festern Termin sicher wahrnehmen zu kommen</td>
+  </tr>
+  
+   <tr> 
+    <td>  </td>
+    <td>Planung, was kann wann gemacht werden, wie viel Aufwand steckt dahinter, wo ist das, wie komm ich dahin... stresst sich dadurch selbst
+     </td>
+    <td>besser auf sich selbst achten und Grenzen setzen (sagen, wenn es zu viel ist; Pause machen; Atemübungen)</td>
+  </tr>
+  
+  <tr> 
+    <td>Vergesslichkeit</td>
+    <td>"Wo habe ich mein Handy (Schlüssel) hingelegt?"</td>
+    <td>nutzt Smartwatch (Tracker/Tags) zum finden</td>
+  </tr>
+  
+  <tr> 
+    <td>Vergesslichkeit, wenn Dinge nur kurz angezeigt werden</td>
+    <td>Folien während einer Präsentation werden nur kurz gezeigt, D musste oft darum bitten die Folien zu bekommen und fühlt sich dadurch oft nicht ernstgenommen</td>
+    <td>Anderen Floien zur Verfügung stellen</td>
+  </tr>
+  
+   <tr> 
+    <td>Lesen</td>
+    <td>lange Texte sind anstrengend</td>
+    <td>Screenreader können hilfreich sein</td>
+  </tr>
+  
+   <tr> 
+    <td> </td>
+    <td>wenn Texte als Bild in eine Nachricht eingefügt werden und deshalb nicht vom Screenreader vorgelesen werden können</td>
+    <td>darauf aufmerksam machen</td>
+  </tr>
+  
+  tr> 
+    <td>Hörschwäche</td>
+    <td>Laute Umgebung sorgt für zusätzlichen Stress</td>
+    <td>neue Hörgeräte können in solchen Situationen individuell eingestellt werden</td>
+  </tr>
+  
+  tr> 
+    <td> </td>
+    <td>Menschen drehen sich während des Gesprächs weg</td>
+    <td>darauf aufmerksam machen</td>
+  </tr>
+  
+  </table>
+  
+# Barrieren im ÖPNV
+
+<table>
+  <tr>
+   <td><p style="text-align: right">
+     <strong>Barriere</strong></p>
+  </td>
+  <td><strong>Beschreibung von Barriere, Ängsten und Gefühle</strong>
+  </td>
+   <td><strong>Lösungen und Hilfsmittel</strong>
+  </td>
+  </tr>
+  
+ <tr> 
+    <td>Fehlenden Kontrolle</td>
+    <td>Zug fällt aus, was zu einem Gefühl von Hilflosigkeit führt</td>
+    <td>checkt alles mehrfach und über verschiedene Apps</td>
+  </tr>
+  
+  <tr> 
+    <td>Spontane Änderungen</td>
+    <td>Personen sind überfordert und manchmal orientierungslos</td>
+    <td> - </td>
+  </tr>
+  
+   <tr> 
+    <td>Stressfaktor bei unbekannten Strecken</td>
+    <td>"Wann muss ich raus?" <br>
+        "Wo muss ich hin?" <br>
+        "Wie bekomme ich den Anschluss?"</td>
+    <td>Strecke genau planen und ggf. vorher mit einer Begleitung abfahren</td>
+  </tr>
+  
+  <tr> 
+    <td>Routenauswahl</td>
+    <td>Es werden viele sehr ähnliche Routen durch Navigationsapps vorgeschlagen. Die Auswahl ist zu groß, das kann überfordern</td>
+    <td> - </td>
+  </tr>
+  
+  <tr> 
+    <td>Wohlbefinden im ÖPNV</td>
+    <td>Reizüberflutung durch zu viele Menschen, Geräuche, Gerüche</td>
+    <td>Abschirmung mit Musik; 
+      <br> Fahrten so planen, dass solche Situationen vermieden werden </td>
+  </tr>
+ 
+  <tr> 
+    <td> </td>
+    <td>lange Zeit still zu sitzen fällt schwer</td>
+    <td>Ablenkung durch Spiele</td>
+  </tr>
+  
+   <tr> 
+    <td>Navigation</td>
+    <td> </td>
+    <td></td>
+  </tr>
+  
+</table>
+  
+# Zusammenfassung und Ishikawa-Diagramm
+  
+Das Ishikawa-Diagramm fasst die wichitgsten Punkte und Einflüsse zusammen, die dazu führen, dass sich nicht-neurotypische Menschen im ÖPNV oft nicht wohlfühlen. 
+
+![image](https://user-images.githubusercontent.com/117289466/227797671-dea3536a-537f-488e-89f0-c543168f4428.png)
+
+
