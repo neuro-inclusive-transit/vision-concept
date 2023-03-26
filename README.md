@@ -54,6 +54,9 @@ Das Projekt begann mit einem Brainstroming und der Formulierung eines [Exposés]
 - [Prototype](https://www.figma.com/proto/mJOAhkmtCtxVFNQRpSg7NC/P1-Prototype?node-id=19-381&viewport=-1730%2C-188%2C0.23&scaling=scale-down&starting-point-node-id=573%3A10754&show-proto-sidebar=1)
 - [Backlog/Projekt-Board für P2](https://github.com/orgs/neuro-inclusive-transit/projects/1)
 
+
+**[Foliensatz der Abschlusspräsentation](./artefakte/abschlusspraesentation)**
+
 ---
 
 ## Exposé
