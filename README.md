@@ -55,7 +55,7 @@ Das Projekt begann mit einem Brainstroming und der Formulierung eines [Exposés]
 - [Backlog/Projekt-Board für P2](https://github.com/orgs/neuro-inclusive-transit/projects/1)
 
 
-**[Foliensatz der Abschlusspräsentation](./artefakte/abschlusspraesentation)**
+**[Foliensatz der Abschlusspräsentation](https://github.com/neuro-inclusive-transit/vision-concept/blob/main/artefakte/abschlusspraesentation.pdf)**
 
 ---
 
