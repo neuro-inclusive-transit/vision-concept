@@ -33,7 +33,7 @@ Das Projekt begann mit einem Brainstroming und der Formulierung eines [Exposés]
 
 **MEILENSTEIN 1 (21.12.2022)**
 
-- Flussdiagramme
+- [Flussdiagramm](./artefakte/flussdiagramm.md)
 - [UML-Domaenenmodell](./artefakte/uml-domaenenmodell.md)
 - [Zielhierarchie/Vision mit einer SWOT-Analyse](./artefakte/zielhierarchie.md)
 
