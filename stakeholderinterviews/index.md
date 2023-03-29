@@ -1,4 +1,6 @@
-# Design Sprint › Artefakte
+# Interviews mit Stakeholdern
+
+## Artefakte
 
 - [Checkliste](./checkliste.pdf)
 - [Einverständniserklärung](./einverständniserklärung.pdf)
