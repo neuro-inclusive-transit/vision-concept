@@ -1,4 +1,4 @@
-<a href="./artefakte/anforderungen+erfordernisse.html">Zurück</a>
+<a href="./anforderungen+erfordernisse.html">Zurück</a>
 
 <h2 id="anforderungen">Anforderungen</h2>
 
