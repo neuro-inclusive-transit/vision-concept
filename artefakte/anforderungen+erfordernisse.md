@@ -8,7 +8,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
 
 [^1]: Sarah Gibbons (2021). 5 Prioritization Methods in UX Roadmapping. Letzter Zugriff: 22. März 2023. Nielson Norman Group. URL: <https://www.nngroup.com/articles/prioritization-methods/>.
 
-## Erfordernisse
+<h2> Erfordernisse </h2>
 
 <table>
   <tr>
