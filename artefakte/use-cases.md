@@ -1,6 +1,6 @@
 # Use Cases
 
-Nachfolgend sind die zentralen Use Cases des Systems dargestellt. Diese basieren auf den wichtigsten [Anforderungen](anforderungen%2Berfordernisse.md) und skizieren die ungefähren Eckpunkte des Sytstems. Die Use Cases sind in drei Bereiche unterteilt: [Onboarding](#onboarding), [Planung](#planung),  [Navigationsbegleitung](#navigationsbegleitung) und [Herausforderungen](#herausforderungen).
+Nachfolgend sind die zentralen Use Cases des Systems dargestellt. Diese basieren auf den wichtigsten [Anforderungen](anforderungen%2Berfordernisse.md) und skizieren die ungefähren Eckpunkte des Sytstems. Die Use Cases sind in drei Bereiche unterteilt: [Planung](#planung), [Herausforderungen](#herausforderungen),  [Navigationsbegleitung](#navigationsbegleitung) und  [Onboarding](#onboarding).
 
 ## Planung
 ### UC01: Route planen
