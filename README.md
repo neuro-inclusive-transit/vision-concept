@@ -28,12 +28,12 @@ im Wintersemester 2022/23
 Das Projekt begann mit einem Brainstroming und der Formulierung eines [Exposés](#exposé).
 
 - [Design Sprint](./designsprint/index.md)
-- [UML-Domaenenmodell](./artefakte/uml-domaenenmodell.md)
 - [Interviews mit Stakeholder:innen](./stakeholderinterviews/index.md)
 
 **MEILENSTEIN 1 (21.12.2022)**
 
 - [Flussdiagramm](./artefakte/flussdiagramm.md)
+- [UML-Domaenenmodell](./artefakte/uml-domaenenmodell.md)
 - [Zielhierarchie/Vision mit einer SWOT-Analyse](./artefakte/zielhierarchie.md)
 
 **MEILENSTEIN 2 (18.01.2022)**
