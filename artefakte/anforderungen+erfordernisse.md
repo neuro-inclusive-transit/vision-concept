@@ -1,14 +1,16 @@
-Die Definition der Erfordernisse und daraus folgende Anforderungen an das System sind ein elementarer Bestandteil der Stakeholderanalyse. Grundlage hierfür sind die zuvor geführten Stakeholderinterviews. 
+<p>Die Definition der Erfordernisse und daraus folgende Anforderungen an das System sind ein elementarer Bestandteil der Stakeholderanalyse. Grundlage hierfür sind die zuvor geführten Stakeholderinterviews.</p>
 
-- [Google-Docs Dokument](https://docs.google.com/spreadsheets/d/1jWVji9fXiIi3NdzY2DgPvR8sU0q2yXTpKpeOKPIMDCI/edit?usp=sharing)
-- [Erfordernisse](#erfordernisse)
-- [Anforderungen](#anforderungen)
+<ul>
+  <li><a href="https://docs.google.com/spreadsheets/d/1jWVji9fXiIi3NdzY2DgPvR8sU0q2yXTpKpeOKPIMDCI/edit?usp=sharing">Google-Docs Dokument</a></li>
+  <li><a href="#erfordernisse">Erfordernisse</a></li>
+  <li><a href="#anforderungen">Anforderungen</a></li>
+</ul>
 
-Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung priorisiert. Die geschah im ersten Schritt nach der Einschätzung aller Gruppenmitglieder:innen. Die Anforderungen wurden zusätzlich noch nach der Methode der "feasibility, desirability and viability scorecard"[^1] priorisiert.
+<p>Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung priorisiert. Die geschah im ersten Schritt nach der Einschätzung aller Gruppenmitglieder:innen. Die Anforderungen wurden zusätzlich noch nach der Methode der "feasibility, desirability and viability scorecard"[^1] priorisiert.</p>
 
-[^1]: Sarah Gibbons (2021). 5 Prioritization Methods in UX Roadmapping. Letzter Zugriff: 22. März 2023. Nielson Norman Group. URL: <https://www.nngroup.com/articles/prioritization-methods/>.
 
-<h2> Erfordernisse </h2>
+
+<h2 id="erfordernisse"> Erfordernisse </h2>
 
 <table>
   <tr>
@@ -721,7 +723,7 @@ Sowohl Erfordernisse als auch die Anforderungen wurden nach der Erstellung prior
   </tr>
 </table>
 
-<h2>Anforderungen</h2>
+<h2 id="anforderungen">Anforderungen</h2>
 
 
 <table>
