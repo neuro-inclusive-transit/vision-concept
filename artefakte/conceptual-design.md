@@ -27,5 +27,5 @@ Das Navigation Model umfasst die Bereiche **Onboarding**, **Profil & Einstellung
   - **Routennavigation:** Die Nutzer:innen werden Schritt für Schritt durch die Route geführt. Hierbei wird eine sehr reduzierte Darstellung der kommenden Navigationsschritte gezeigt. Es sollen so wenig Informationen wie möglich, aber so viele Infos wie nötig gezeigt werden.
   - **Herausforderungen:** Herausforderungen sind Schwierigkeiten, die während der Navigation auftreten können. Das System soll Herausforderungen ankündigen und Hilfestellungen geben. Zusätzlich können Nutzer:innen weitere Herausforderungen melden.
   - **Pause:** Die Nutzer:innen können die Routennavigation pausieren. So können sie sich bspw. nach Stressituationen erholen.
-  - **Kontaktpersonen:** Benötigen dei Nutzer:innen zusätzliche Unterstützung, können diese voreingestellte Kontaktpersonen kontaktieren.
+  - **Kontaktpersonen:** Benötigen die Nutzer:innen zusätzliche Unterstützung, können diese voreingestellte Kontaktpersonen kontaktieren.
 <img width="4384" alt="navigationsmodell" src="https://user-images.githubusercontent.com/56262612/225102183-d9d7c09a-e281-4238-81a9-b1379c712ab0.png">
