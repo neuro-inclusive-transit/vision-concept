@@ -44,8 +44,42 @@ Dazu wurden sechs Personen unterschiedlichen Alters und Geschlechts befragt, die
       <td> AD(H)S <br> Bindungsstörung <br> Angststörung <br> weitere </td>
       <td> Nutzer:in <br> Betreuer:in </td>
     </tr>
-
     
+    <tr>
+      <td> C </td>
+      <td> 35-50 Jahre </td>
+      <td> er / ihn </td>
+      <td> ADHS<br> Autismus Spektrum <br> Depressionen </td>
+      <td> - </td>
+      <td> Nutzer:in </td>
+    </tr>
+    
+    <tr>
+      <td> D </td>
+      <td> 35-50 Jahre </td>
+      <td> er / ihn </td>
+      <td>  Legasthenie </td>
+      <td> - </td>
+      <td> Nutzer:in </td>
+    </tr>
+    
+    <tr>
+      <td> E </td>
+      <td> über 50 Jahre </td>
+      <td> sie / ihr </td>
+      <td> - </td>
+      <td> unterschiedlichen kognitiven, geistigen und körperlichen Behinderungen </td>
+      <td> Betreuer:in </td>
+    </tr>
+    
+    <tr>
+      <td> F </td>
+      <td> 35-50 Jahre </td>
+      <td> keine </td>
+      <td> ADHS <br> Hörschwäche </td>
+      <td> - </td>
+      <td> Nutzer:in </td>
+    </tr>
     
  </table>
 </p>
@@ -145,7 +179,7 @@ Die Interviews wurden entweder Remote oder persönlich durchgeführt. Der:die In
 
 <table>
   <tr>
-   <td><p style="text-align: right">
+   <td><p style="text-align: left">
      <strong>Barriere</strong></p>
   </td>
   <td><strong>Beschreibung von Barriere, Ängsten und Gefühle</strong>
