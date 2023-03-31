@@ -1,6 +1,6 @@
 ### Flussdiagramm
 
-Im Flussdiagrammnwerden die wichtigsten Abläufe dargestellt. Dabei werden Entscheidungen der Nutzer:innen berücksichtigt, die durch äußere oder innere Einflüsse getriggert werden. Diese können systemintern verschiedenen Prozesse aktivieren
+Im Flussdiagramm werden die wichtigsten Abläufe dargestellt. Dabei werden Entscheidungen der Nutzer:innen berücksichtigt, die durch äußere oder innere Einflüsse getriggert werden. Diese können systemintern verschiedenen Prozesse aktivieren
 
 <br>
 
