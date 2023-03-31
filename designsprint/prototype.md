@@ -1,6 +1,6 @@
 # Design Sprint › Erstellung des Prototypen
 
-> [Protoyp als Figma-Klickdummy](https://www.figma.com/proto/Y3n3YfCirgUVYRKMAOvu4v/Sprint-Week-Prototype?page-id=0%3A1&node-id=2%3A2&viewport=323%2C186%2C0.14&scaling=scale-down&starting-point-node-id=2%3A2)
+> [Protoyp als Figma-Klickdummy](https://www.figma.com/proto/Y3n3YfCirgUVYRKMAOvu4v/Sprint-Week-Prototype?node-id=2-48&starting-point-node-id=495%3A11064&comments-enabled=1&locale=en)
 
 #### Allgemein
 - Wahl der Plattform: Figma -> schnelle Gestaltung möglich / Interaktivität / Mobiler Prototyp möglich + Neues Feature der Videoeinbindung
