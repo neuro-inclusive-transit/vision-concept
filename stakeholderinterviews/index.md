@@ -16,76 +16,18 @@ Um die Anforderungen und den Scope unseres Projektes weriter definieren zu könn
 Dazu wurden sechs Personen unterschiedlichen Alters und Geschlechts befragt, die entweder selbst unterschiedliche nicht-neurotypische Fähigkeiten haben und/oder mit Menschen mit nicht-neurotypischen Fähigkeiten arbeiten.  
 </p>
 
-<table>
-  <tr>
-   <td><p style="text-align: right">
-     <strong>Person</strong></p>
-  </td>
-  <td><strong>Altersgruppe</strong>
-  </td>
-   <td><strong>Pronomen</strong>
-  </td>
-  <td><strong>hat folgende nicht-neurotypische Fähigkeiten</strong>
-   </td>
-   <td><strong>arbeitet mit / betreut Menschen mit</strong>
-   </td>
-   <td><strong>potentielle Rolle</strong>
-   </td>
-  </tr>
-  
-  <tr> 
-    <td> A </td>
-    <td> 18-24 Jahre </td>
-    <td> sie / ihr </td>
-    <td> ADHS </td>
-    <td> - </td>
-    <td> Nutzer:in </td>
-  </tr>
-  
-  <tr>
-    <td> B </td>
-    <td> 25-34 Jahre </td>
-    <td> sie / ihr </td>
-    <td> Posttraumatische Belastungsstörung </td>
-    <td> AD(H)S <br> Bindungsstörung <br> Angststörung <br> weitere </td>
-    <td> Nutzer:in <br> Betreuer:in</td>
+<p>
+  <table>
+    <tr>
+      <td> <strong>Person</strong> </td>
+      <td> <strong>Altersgruppe</strong> </td>
+      <td> <strong>Pronomen</strong> </td>
+      <td> <strong>hat folgende nicht-neurotypische Fähigkeiten</strong> </td>
+      <td> <strong>arbeitet mit/betreut Menschen mit</strong> </td>
+      <td> <strong>potentielle Rolle</strong> </td>
+    </tr>
     
-  <tr> 
-    <td> C </td>
-    <td> 35-50 Jahre </td>
-    <td> er / ihn </td>
-    <td> ADHS<br> Autismus Spektrum <br> Depressionen </td>
-    <td> - </td>
-    <td> Nutzer:in </td>
-  </tr>
-  
-  <tr> 
-    <td> D </td>
-    <td> 35-50 Jahre </td>
-    <td> er / ihn </td>
-    <td> Legasthenie </td>
-    <td> - </td>
-    <td> Nutzer:in </td>
-  </tr>
-  
-  <tr> 
-    <td> E </td>
-    <td> über 50 Jahre </td>
-    <td> sie / ihr </td>
-    <td> - </td>
-    <td> unterschiedlichen kognitiven, geistigen und körperlichen Behinderungen </td>
-    <td> Betreuer:in </td>
-  </tr>
-
-  <tr> 
-    <td> F </td>
-    <td> 35-50 Jahre </td>
-    <td> keine </td>
-    <td> ADHS <br> Hörschwäche</td>
-    <td> - </td>
-    <td> Nutzer:in </td>
-  </tr>
-</table>
+ </table>
 
 
 <p>Um bereits erste allgemeine Daten und Informationen zu den Befragten zu bekommen, baten wir sie einen Kurzfragebogen auszufüllen.
