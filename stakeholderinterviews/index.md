@@ -35,11 +35,20 @@ Dazu wurden sechs Personen unterschiedlichen Alters und Geschlechts befragt, die
       <td> - </td>
       <td> Nutzer:in </td>
     </tr>
+    
+    <tr>
+      <td> B </td>
+      <td> 25-34 Jahre </td>
+      <td> sie / ihr </td>
+      <td> Posttraumatische Belastungsstörung </td>
+      <td> AD(H)S <br> Bindungsstörung <br> Angststörung <br> weitere </td>
+      <td> Nutzer:in <br> Betreuer:in </td>
+    </tr>
 
     
     
  </table>
-
+</p>
 
 <p>Um bereits erste allgemeine Daten und Informationen zu den Befragten zu bekommen, baten wir sie einen Kurzfragebogen auszufüllen.
 Die Interviews wurden entweder Remote oder persönlich durchgeführt. Der:die Interviewende stelle ein paar Fargen, die sich an unserem Leitfaden orientierten. Nach einem kurzen Einstieg lag der Fokus auf den Bereichen Barrieren im Alltag und Barrieren im ÖPNV, welche durch die Beschreibung spezifischer Senarien im ÖPNV ergänzt wurde. Zum Abschluss sollten unsere Interviepartner:innen noch etwas zum Gebrauch und Vertrauen in Software sagen. Während des kompletten Interviews sollten die Interviewpartner:innen möglichst frei von ihren persönlichen Erfahurngen berichten und alles erwähnen, was sie für wichtig hielten.</p>
