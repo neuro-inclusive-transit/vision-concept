@@ -155,13 +155,13 @@ Während der Interviews wurden verschiedene Barrieren beschrieben und wie die Be
     <td>darauf aufmerksam machen</td>
   </tr>
   
-  tr> 
+  <tr> 
     <td>Hörschwäche</td>
     <td>Laute Umgebung sorgt für zusätzlichen Stress</td>
     <td>neue Hörgeräte können in solchen Situationen individuell eingestellt werden</td>
   </tr>
   
-  tr> 
+  <tr> 
     <td> </td>
     <td>Menschen drehen sich während des Gesprächs weg</td>
     <td>darauf aufmerksam machen</td>
