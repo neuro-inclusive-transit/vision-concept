@@ -7,7 +7,7 @@ Mithilfe des NUI/GUI-Konzepts soll die Interaktion der Nutzer:innen mit dem Syst
 
 ## Grundkonzept
 
-Nachfolgend ist das Grundkonzept abgebildet. Die drei Spalten stellen die drei Kodalitäten auditiv, visuell und haptisch dar. Das System kann per visuellem oder auditiven Input und Output genutzt werden. Für die visuelle Nutzung wird ein Display mit Touch-Gesten verwendet. Für die auditive Nutzung wird ein Lautsprecher und ein Mikrofon für eine Sprachsteuerung benötigt. Zusätzlich kann das System haptische Signal als Unterstützung geben.
+Nachfolgend ist das Grundkonzept abgebildet. Die drei Spalten stellen die drei Kodalitäten auditiv, visuell und haptisch dar. Das System kann per visuellem oder auditiven Input und Output genutzt werden. Für die visuelle Nutzung wird ein Display mit Touch-Gesten verwendet. Für die auditive Nutzung wird ein Lautsprecher und ein Mikrofon für eine Sprachsteuerung benötigt. Zusätzlich kann das System haptische Signale als Unterstützung geben.
 
 ![gui-nui-konzept](https://user-images.githubusercontent.com/41923897/224485631-5a1019f6-788f-465c-b50a-b56c2cf00a14.jpg)
 
