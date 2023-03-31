@@ -18,12 +18,19 @@ es war uns wichtig zu zeigen, dass unsere App unsere Nutzer:innen auch mit alter
    - wichtig um Vertrauen der Nutzer:innen zu bekommen und zu halten (Sprint Goal)
    - USP weitere Unterstützung und Begleitung, möchten kein negatives Gefühl bei Nutzer:in erzeugen
 
+Hier die Ergebnisse unseres Votings: 
+![image](https://user-images.githubusercontent.com/117289466/229030757-99ffdd6d-9044-4e1d-8b57-394584dce355.png)
+
+
 #### Storyboard
 - wir haben aufgeteilt, wer welchen Teil unseres Test Flows zeichnet
 - überlegt, welche Situationen wir brauchen und wie man diese am besten darstellen kann
 - Schwierigkeiten, die Screens bereits so detailreich darzustellen wie später im Prototyp, da wir noch keinen genauen Anforderungen und Funktionen definiert hatten
     - -> die Inhalte der Screens müssen für den Prototyp noch verfeinert werden
 - Wir sind mit dem Storyboard und dem dargestellten test Flow zufrieden
+
+![image](https://user-images.githubusercontent.com/117289466/229031097-0eb58cf6-45be-40a9-86d1-9d7838722ece.png)
+
 
 #### Grundsätzliche Anmerkungen
 - Die Projektidee konnte an diesem Sprinttag weiter konkretisiert werden
