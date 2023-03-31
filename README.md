@@ -50,7 +50,7 @@ Das Projekt begann mit einem Brainstroming und der Formulierung eines [Exposés]
 
 - [NUI/GUI-Konzept](./artefakte/nui-gui-konzept.md)
 - [Technische System-Architektur](./artefakte/systemarchitecture.md)
-- [HiFi-Prototype](./artefakte/prototype.md)
+- [Abschließender Prototyp](./artefakte/prototype.md)
 - [Backlog/Projekt-Board für P2](https://github.com/orgs/neuro-inclusive-transit/projects/1)
 
 
@@ -87,8 +87,8 @@ Für ein umfangreicheres Verständnis des Problemraums, muss nun eine ausführli
 Die Festlegung eines Vorgehensmodells für dieses Projekt steht noch aus. Für die Anpassung des technischen Systems an die Fähigkeiten des/der spezifischen Nutzer:in bietet sich das Ability-based design an. Bei diesem Vorgehensmodell werden die Fähigkeiten der Nutzer:innen in den Vordergrund gestellt, um das gesamte Spektrum des menschlichen Potenzials auszuschöpfen.
 
 
-[^1]: Statistisches Bundesamt (Apr. 2021). Lebenslagen der behinderten Menschen. Ergebnis des Mikro-Zensus 2019. Statistik. Letzter Zugriff: 22. März 2023. Wiesbaden, Deutschland. URL: <https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/BehinderteMenschen/Publikationen/Downloads-Behinderte-Menschen/lebenslagen-behinderter-menschen5122123199004.pdf>.
+[^1]: Statistisches Bundesamt (Apr. 2021). Lebenslagen der behinderten Menschen. Ergebnis des Mikro-Zensus 2019. Statistik. Letzter Zugriff: 22. März 2023. Wiesbaden, Deutschland. URL: <https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Behinderte-Menschen/Publikationen/Downloads-Behinderte-Menschen/lebenslagen-behinderter-menschen-5122123199004.html>.
 
-[^2]: Aktion Mensch e. V. (2021). Barrieren im Alltag — wer sie wahrnimmt und wen sie behindern. Ergebnisse einer bundesweiten Umfrage. Studie. Letzter Zugriff: 22. März 2023. Berlin, Deutschland: Ipsos Public Affairs. URL: <https://delivery-aktion-mensch.stylelabs.cloud/api/public/content/AktionMensch_Studie-DigitaleTeilhabe.pdf?v=6336f50a>.
+[^2]: Aktion Mensch e. V. (2021). Barrieren im Alltag — wer sie wahrnimmt und wen sie behindern. Ergebnisse einer bundesweiten Umfrage. Studie. Letzter Zugriff: 22. März 2023. Berlin, Deutschland: Ipsos Public Affairs. URL: <https://aktion-mensch.stylelabs.cloud/api/public/content/studie-barrieren-im-alltag.pdf?v=28efd1ef>.
 
 [^3]: Gedrath, Finn Nils (2022) „Barrierefreiheit im Design eines digitalen Services: Analyse und Gestaltung eines digitalen Services mit dem Ziel der barrierefreien Nutzung am Beispiel eines Ticketverkaufsystems“ Bachelor Thesis. Technische Hochschule Köln. <https://doi.org/10.57683/EPUB-1962>
