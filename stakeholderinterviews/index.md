@@ -27,6 +27,17 @@ Dazu wurden sechs Personen unterschiedlichen Alters und Geschlechts befragt, die
       <td> <strong>potentielle Rolle</strong> </td>
     </tr>
     
+    <tr>
+      <td> A </td>
+      <td> 18-24 Jahre </td>
+      <td> sie / ihr </td>
+      <td> ADHS </td>
+      <td> - </td>
+      <td> Nutzer:in </td>
+    </tr>
+
+    
+    
  </table>
 
 
