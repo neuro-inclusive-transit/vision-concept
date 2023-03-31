@@ -7,35 +7,19 @@ Durch die intensive Auseinadersetzung mit der Problemdomäne, der Ausarbeitung v
 Die Screens in der Low-Fidelity wurden die Zonen aus dem Navigations-Modell in der Gruppe aufgeteilt. Die einzelnen benötigten Screens wurden als Paper-Prototyp umgesetzt, und dann via Design Critique in der Gruppe diskutiert.
 
 <details><summary><h3>Profil & Einstellungen</h3></summary>
-<p>
-
-![Paper-Prototypes für Profil & Einstellungen](https://user-images.githubusercontent.com/19761338/228832596-fa19f365-086e-480f-9e74-9e49deadc820.jpg)
-
-</p>
+<img src="https://user-images.githubusercontent.com/19761338/228832596-fa19f365-086e-480f-9e74-9e49deadc820.jpg" loading="lazy" alt="Paper-Prototypes für Profil & Einstellungen">
 </details> 
 
 <details><summary><h3>Route anlegen</h3></summary>
-<p>
-
-![route anlegen](https://user-images.githubusercontent.com/19761338/228833605-88976aa2-87e0-441e-8a5e-5b5a3576337d.jpg)
-
-</p>
+<img src="https://user-images.githubusercontent.com/19761338/228833605-88976aa2-87e0-441e-8a5e-5b5a3576337d.jpg" loading="lazy" alt="route anlegen">
 </details> 
 
 <details><summary><h3>Onboarding</h3></summary>
-<p>
-
-![onboarding](https://user-images.githubusercontent.com/19761338/228834202-e0c5adea-61bd-473d-993d-2c00d4352c52.jpg)
-
-</p>
+<img src="https://user-images.githubusercontent.com/19761338/228834202-e0c5adea-61bd-473d-993d-2c00d4352c52.jpg" loading="lazy" alt="onboarding">
 </details> 
 
 <details><summary><h3>Live-Ansicht</h3></summary>
-<p>
-
-![live-ansicht](https://user-images.githubusercontent.com/19761338/228834636-2fc4614c-a786-4d98-be7e-a51b69b58f91.jpg)
-
-</p>
+<img src="https://user-images.githubusercontent.com/19761338/228834636-2fc4614c-a786-4d98-be7e-a51b69b58f91.jpg" loading="lazy" alt="live-ansicht">
 </details> 
 
 
@@ -57,6 +41,6 @@ Um ein konsequentes Aussehen des Prototyps zu erreichen wurden zunächsten die w
   - **Buttons** wurden mit einem Schlagschatten versehen, um besser zu verdeutlichen, dass sie klickbar sind <br> <br> <img src="https://user-images.githubusercontent.com/117289466/227908564-2512cbd6-0449-4d55-aba0-4ffba0d110bc.png" width="300">
 
 
-[^neurodiversity] Neurodiversity Design System (NDS): https://www.neurodiversity.design
+[^neurodiversity]: Neurodiversity Design System (NDS): https://www.neurodiversity.design
 [^wcag]: Web Content Accessibility Guidelines (WCAG) 2: https://www.w3.org/WAI/standards-guidelines/wcag/
  
