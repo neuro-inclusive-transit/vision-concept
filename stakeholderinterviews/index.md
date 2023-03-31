@@ -11,8 +11,9 @@ Um die Anforderungen und den Scope unseres Projektes weriter definieren zu könn
 - [Interviewleitfaden](./interviewleitfaden.pdf)
 
 ## Vorgehensweise und Druchführung
-
+<p>
 Dazu wurden sechs Personen unterschiedlichen Alters und Geschlechts befragt, die entweder selbst unterschiedliche nicht-neurotypische Fähigkeiten haben und/oder mit Menschen mit nicht-neurotypischen Fähigkeiten arbeiten.  
+</p>
 
 <table>
   <tr>
@@ -85,14 +86,15 @@ Dazu wurden sechs Personen unterschiedlichen Alters und Geschlechts befragt, die
   </tr>
 </table>
 
-Um bereits erste allgemeine Daten und Informationen zu den Befragten zu bekommen, baten wir sie einen [Kurzfragebogen](stakeholderinterviews/kurzfragebogen.pdf) auszufüllen.
-Die Interviews wurden entweder Remote oder persönlich durchgeführt. Der:die Interviewende stelle ein paar Fargen, die sich an unserem [Leitfaden](stakeholderinterviews/interviewleitfaden_short.pdf) orientierten. Nach einem kurzen Einstieg lag der Fokus auf den Bereichen Barrieren im Alltag und Barrieren im ÖPNV, welche durch die Beschreibung spezifischer Senarien im ÖPNV ergänzt wurde. Zum Abschluss sollten unsere Interviepartner:innen noch etwas zum Gebrauch und Vertrauen in Software sagen. Während des kompletten Interviews sollten die Interviewpartner:innen möglichst frei von ihren persönlichen Erfahurngen berichten und alles erwähnen, was sie für wichtig hielten.
+<p>
+Um bereits erste allgemeine Daten und Informationen zu den Befragten zu bekommen, baten wir sie einen Kurzfragebogen auszufüllen.
+Die Interviews wurden entweder Remote oder persönlich durchgeführt. Der:die Interviewende stelle ein paar Fargen, die sich an unserem Leitfaden orientierten. Nach einem kurzen Einstieg lag der Fokus auf den Bereichen Barrieren im Alltag und Barrieren im ÖPNV, welche durch die Beschreibung spezifischer Senarien im ÖPNV ergänzt wurde. Zum Abschluss sollten unsere Interviepartner:innen noch etwas zum Gebrauch und Vertrauen in Software sagen. Während des kompletten Interviews sollten die Interviewpartner:innen möglichst frei von ihren persönlichen Erfahurngen berichten und alles erwähnen, was sie für wichtig hielten.</p>
 
-## Ergebnisse
+<h2>Ergebnisse</h2>
 
-Während der Interviews wurden verschiedene Barrieren beschrieben und wie die Befragten mit diesen Situationen umgehen. 
+<p>Während der Interviews wurden verschiedene Barrieren beschrieben und wie die Befragten mit diesen Situationen umgehen.</p>
 
-### Barrieren im Alltag 
+<h3>Barrieren im Alltag </h3>
 
 <table>
   <tr>
