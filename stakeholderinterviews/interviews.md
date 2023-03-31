@@ -89,7 +89,7 @@ Während der Interviews wurden verschiedene Barrieren beschrieben und wie die Be
 
 <table>
   <tr>
-   <td><p style="text-align: right">
+   <td><p style="text-align: left">
      <strong>Barriere</strong></p>
   </td>
   <td><strong>Beschreibung von Barriere, Ängsten und Gefühle</strong>
@@ -229,7 +229,7 @@ Während der Interviews wurden verschiedene Barrieren beschrieben und wie die Be
   
 </table>
   
-# Zusammenfassung und Ishikawa-Diagramm
+# Ishikawa-Diagramm
   
 Das Ishikawa-Diagramm fasst die wichitgsten Punkte und Einflüsse zusammen, die dazu führen, dass sich nicht-neurotypische Menschen im ÖPNV oft nicht wohlfühlen. 
 
