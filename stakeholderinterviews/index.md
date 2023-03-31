@@ -178,7 +178,7 @@ Die Interviews wurden entweder Remote oder persönlich durchgeführt. Der:die In
   
   </table>
 
-### Barrieren im ÖPNV
+<h3>Barrieren im ÖPNV</h3>
 
 <table>
   <tr>
@@ -238,10 +238,14 @@ Die Interviews wurden entweder Remote oder persönlich durchgeführt. Der:die In
   
 </table>
 
-## Zusammenfassung und Ishikawa-Diagramm
-  
-Das Ishikawa-Diagramm fasst die wichitgsten Punkte und Einflüsse, die dazu führen, dass sich nicht-neurotypische Menschen im ÖPNV oft nicht wohlfühlen noch einmal zusammen.
+<h2>Ishikawa-Diagramm</h2>
 
-![image](https://user-images.githubusercontent.com/117289466/227797671-dea3536a-537f-488e-89f0-c543168f4428.png)
+<p>
+Das Ishikawa-Diagramm fasst die wichitgsten Punkte und Einflüsse, die dazu führen, dass sich nicht-neurotypische Menschen im ÖPNV oft nicht wohlfühlen noch einmal zusammen.<br> <br>
+  
+<img src="https://user-images.githubusercontent.com/117289466/227797671-dea3536a-537f-488e-89f0-c543168f4428.png">
+</p>
+
+
 
 
