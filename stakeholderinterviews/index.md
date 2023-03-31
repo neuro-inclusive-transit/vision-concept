@@ -1,4 +1,4 @@
-# Interviews mit Stakeholdern
+# Interviews mit Stakeholder:innen
 
 Um die Anforderungen und den Scope unseres Projektes weriter definieren zu könnenn wurden leitfadegestützte Interviews mit potentiellen Nutzer:innen und Stakeholdern durchgeführt. Ziel dieser Interviews war es potentielle Hindernisse und Barrieren zu identifizieren und die Relevanz unserer Problemstellung zu bestätigen.
 
@@ -10,7 +10,8 @@ Um die Anforderungen und den Scope unseres Projektes weriter definieren zu könn
 - [Kurzfragebogen (digital)](https://finnge.limesurvey.net/461718?newtest=Y&lang=de)
 - [Interviewleitfaden](./interviewleitfaden.pdf)
 
-## Vorgehensweise und Druchführung
+<h2>Vorgehensweise und Druchführung</h2>
+
 <p>
 Dazu wurden sechs Personen unterschiedlichen Alters und Geschlechts befragt, die entweder selbst unterschiedliche nicht-neurotypische Fähigkeiten haben und/oder mit Menschen mit nicht-neurotypischen Fähigkeiten arbeiten.  
 </p>
@@ -86,8 +87,7 @@ Dazu wurden sechs Personen unterschiedlichen Alters und Geschlechts befragt, die
   </tr>
 </table>
 
-<p>
-Um bereits erste allgemeine Daten und Informationen zu den Befragten zu bekommen, baten wir sie einen Kurzfragebogen auszufüllen.
+<p>Um bereits erste allgemeine Daten und Informationen zu den Befragten zu bekommen, baten wir sie einen Kurzfragebogen auszufüllen.
 Die Interviews wurden entweder Remote oder persönlich durchgeführt. Der:die Interviewende stelle ein paar Fargen, die sich an unserem Leitfaden orientierten. Nach einem kurzen Einstieg lag der Fokus auf den Bereichen Barrieren im Alltag und Barrieren im ÖPNV, welche durch die Beschreibung spezifischer Senarien im ÖPNV ergänzt wurde. Zum Abschluss sollten unsere Interviepartner:innen noch etwas zum Gebrauch und Vertrauen in Software sagen. Während des kompletten Interviews sollten die Interviewpartner:innen möglichst frei von ihren persönlichen Erfahurngen berichten und alles erwähnen, was sie für wichtig hielten.</p>
 
 <h2>Ergebnisse</h2>
