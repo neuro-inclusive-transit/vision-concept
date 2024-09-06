@@ -1,7 +1,7 @@
-# ÖPNV-Navigation für nicht-neurotypische Personen
+# ÖPNV-Navigation für neurodivergente Personen
 
 > **Kurzvorstellung:** \
-> Für nicht-neurotypische Personen stellt die Reise mit dem ÖPNV eine besondere Herausforderung dar. Reizüberflutung durch große Menschenansammlungen und kurzfristige Veränderungen am Fahrplan belasten diese Personengruppe im hohen Maße und grenzen diese von einer bezahlbaren und klimafreundlichen Mobilität aus. Unser konzeptionell entwickeltes System ist ein Begleiter in solchen überfordernden Situationen, in dem es indiviuell- und situativ-abhängige Unterstützung und Alternativen bietet. Im Gestaltungsprozess waren Werte wie Autonomie und Stärkung des Selbstbewusstsein besonders wichtig, mit dem Ziel Nutzende nicht vom System abhängig zu machen.
+> Für neurodivergente Personen stellt die Reise mit dem ÖPNV eine besondere Herausforderung dar. Reizüberflutung durch große Menschenansammlungen und kurzfristige Veränderungen am Fahrplan belasten diese Personengruppe im hohen Maße und grenzen diese von einer bezahlbaren und klimafreundlichen Mobilität aus. Unser konzeptionell entwickeltes System ist ein Begleiter in solchen überfordernden Situationen, in dem es indiviuell- und situativ-abhängige Unterstützung und Alternativen bietet. Im Gestaltungsprozess waren Werte wie Autonomie und Stärkung des Selbstbewusstsein besonders wichtig, mit dem Ziel Nutzende nicht vom System abhängig zu machen.
 
 Dokumentation für \
 Projekt 1 "Vision und Konzept" \
@@ -12,10 +12,11 @@ im Wintersemester 2022/23
 
 **Gruppenmitglieder:**
 - [Lining Bao](mailto:lining.bao@smail.th-koeln.de)
-- [Finn Gedrath](mailto:finn_nils.gedrath@smail.th-koeln.de)
+- [Finn Maybauer](mailto:finn_nils.gedrath@smail.th-koeln.de)
 - [Katrin Hartz](mailto:katrin.hartz@smail.th-koeln.de)
-- [Ali Obaidi](mailto:ali.obaidi@smail.th-koeln.de)
 - [Leonard Pelzer](mailto:leonard.pelzer@smail.th-koeln.de)
+
+- aus dem Projektverlauf ausgeschieden: [Ali Obaidi](mailto:ali.obaidi@smail.th-koeln.de)
 
 **Project-Owner:**
 - Prof. Dr. Gerhard Hartmann
